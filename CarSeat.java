@@ -5,7 +5,7 @@ public class CarSeat extends OptionsDecorator {
         this.inUse = randNumbSeats;
     }
 
-    int cost(CarType car) {
+    int cost(Car car) {
         if (car instanceof EconomyCar) {
             return this.inUse * 5;
         }
