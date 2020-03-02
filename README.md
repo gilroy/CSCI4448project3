@@ -1,4 +1,4 @@
-#Car Rental Business Simulator
+# Car Rental Business Simulator
 
 Team Members: Lucas Laughlin, Nicholas Volpe, Michael Gilroy
 
