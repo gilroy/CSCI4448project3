@@ -5,7 +5,7 @@ public class SatelliteRadio extends OptionsDecorator {
         this.inUse = randNumRadio;
     }
 
-    int cost(CarType car) {
+    int cost(Car car) {
         if (car instanceof EconomyCar) {
             return this.inUse * 8;
         }
