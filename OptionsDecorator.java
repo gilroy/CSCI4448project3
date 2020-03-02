@@ -1,4 +1,4 @@
-public abstract class OptionsDecorator extends CarType {
-    abstract int cost(Cars car);
+public abstract class OptionsDecorator extends Car {
+    abstract int cost(Car car);
     int inUse;
 }
