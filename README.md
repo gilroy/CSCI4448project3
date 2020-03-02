@@ -1,4 +1,6 @@
-Project 3
+#Car Rental Business Simulator
 
-From Lucas
-My stuff is uploaded. Needs integratign still with factory pattern and decorator pattern for records. Shouldn't be to bad. can work on early tomorow. Thank you guys for dealing with my tardyness. Midterms really took the piss out of me this week 
+Team Members: Lucas Laughlin, Nicholas Volpe, Michael Gilroy
+
+Language: Java
+Environment: Visual Studio Code, IntelliJ IDEA
