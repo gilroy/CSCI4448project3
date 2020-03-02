@@ -37,7 +37,7 @@ public abstract class Car {
     	return cost;
     }
     
-    public void setModel(int cost) {
+    public void setCost(int cost) {
         this.cost = cost;
     }
  
