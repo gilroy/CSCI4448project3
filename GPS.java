@@ -5,7 +5,7 @@ public class GPS extends OptionsDecorator {
         this.inUse = randNumGPS;
     }
 
-    int cost(CarType car) {
+    int cost(Car car) {
         if (car instanceof EconomyCar) {
             return this.inUse * 10;
         }
