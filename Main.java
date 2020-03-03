@@ -1,4 +1,5 @@
-package carDealership;
+package CSCI4448project3;
+
 import java.io.FileNotFoundException;
 import java.io.PrintStream;
 public class Main{
@@ -22,30 +23,30 @@ public class Main{
         store.addCustomer( new Customer("Lucy"));
 
         //  Instantiate 24 cars;
-        store.addCar(new Car("AAAAAA"));
-        store.addCar(new Car("BBBBBB"));
-        store.addCar(new Car("CCCCCC"));
-        store.addCar(new Car("DDDDDD"));
-        store.addCar(new Car("EEEEEE"));
-        store.addCar(new Car("FFFFFF"));
-        store.addCar(new Car("GGGGGG"));
-        store.addCar(new Car("HHHHHH"));
-        store.addCar(new Car("IIIIII"));
-        store.addCar(new Car("JJJJJJ"));
-        store.addCar(new Car("KKKKKK"));
-        store.addCar(new Car("LLLLLL"));
-        store.addCar(new Car("MMMMMM"));
-        store.addCar(new Car("NNNNNN"));
-        store.addCar(new Car("OOOOOO"));
-        store.addCar(new Car("PPPPPP"));
-        store.addCar(new Car("QQQQQQ"));
-        store.addCar(new Car("RRRRRR"));
-        store.addCar(new Car("SSSSSS"));
-        store.addCar(new Car("TTTTTT"));
-        store.addCar(new Car("UUUUUU"));
-        store.addCar(new Car("VVVVVV"));
-        store.addCar(new Car("WWWWWW"));
-        store.addCar(new Car("XXXXXX"));
+        store.addCar(CarFactory.buildCar(CarType.STANDARD));
+        store.addCar(CarFactory.buildCar(CarType.STANDARD));
+        store.addCar(CarFactory.buildCar(CarType.STANDARD));
+        store.addCar(CarFactory.buildCar(CarType.SUV));
+        store.addCar(CarFactory.buildCar(CarType.SUV));
+        store.addCar(CarFactory.buildCar(CarType.SUV));
+        store.addCar(CarFactory.buildCar(CarType.SUV));
+        store.addCar(CarFactory.buildCar(CarType.SUV));
+        store.addCar(CarFactory.buildCar(CarType.SUV));
+        store.addCar(CarFactory.buildCar(CarType.LUXURY));
+        store.addCar(CarFactory.buildCar(CarType.LUXURY));
+        store.addCar(CarFactory.buildCar(CarType.LUXURY));
+        store.addCar(CarFactory.buildCar(CarType.LUXURY));
+        store.addCar(CarFactory.buildCar(CarType.LUXURY));
+        store.addCar(CarFactory.buildCar(CarType.LUXURY));
+        store.addCar(CarFactory.buildCar(CarType.ECONOMY));
+        store.addCar(CarFactory.buildCar(CarType.ECONOMY));
+        store.addCar(CarFactory.buildCar(CarType.ECONOMY));
+        store.addCar(CarFactory.buildCar(CarType.ECONOMY));
+        store.addCar(CarFactory.buildCar(CarType.ECONOMY));
+        store.addCar(CarFactory.buildCar(CarType.MINIVAN));
+        store.addCar(CarFactory.buildCar(CarType.MINIVAN));
+        store.addCar(CarFactory.buildCar(CarType.MINIVAN));
+        store.addCar(CarFactory.buildCar(CarType.MINIVAN));
 
         //  35 Day main loop
         for (int day = 1; day<=35; day++){

@@ -48,4 +48,8 @@ public abstract class Car {
     public void setModel(CarType model) {
         this.model = model;
     }
+
+    public String toString(){
+        return "plate: " + this.plate + ", model:" + this.model;
+    }
 }

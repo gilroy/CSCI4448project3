@@ -1,3 +1,5 @@
+
+
 public class CarSeat extends OptionsDecorator {
     private int inUse;
 

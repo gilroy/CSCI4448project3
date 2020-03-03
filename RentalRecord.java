@@ -30,7 +30,7 @@ public class RentalRecord{
         String out="";
         out += "renter: " + renter.getName() + ", rental length: " + rental_length + ", price: " + price + "\n";
         for (Car car: cars){
-            out+= "  - license:" + car.getLicensePlate()+", car: " + car.toString() + "\n";
+            out+= "car- " + car.toString() + "\n";
         }
         return out;
     }
@@ -38,7 +38,7 @@ public class RentalRecord{
     public String toString(){
         String out="";
         for (Car car: cars){
-            out+= "license:" + car.getLicensePlate()+", car: " + car.toString() + ", renter: " + renter.getName() + "\n";
+            out+= "car- " + car.toString() + ", renter: " + renter.getName() + "\n";
         }
         return out;
     }
