@@ -1,25 +1,25 @@
 public class SatelliteRadio extends OptionsDecorator {
-    private int inUse;
+    public Car selected;
 
-    void SatelliteRadio(int randNumRadio) {
-        this.inUse = randNumRadio;
+    void SatelliteRadio(Car theCar) {
+        this.selected = theCar;
     }
 
-    int cost(Car car) {
-        if (car instanceof EconomyCar) {
-            return this.inUse * 8;
+    int cost() {
+        if (this.selected instanceof EconomyCar) {
+            return this.selected.getCost() + 8;
         }
-        else if (car instanceof LuxuryCar) {
-            return this.inUse * 40;
+        else if (this.selected instanceof LuxuryCar) {
+            return this.selected.getCost() + 40;
         }
-        else if (car instanceof SUVCar) {
-            return this.inUse * 20;
+        else if (this.selected instanceof SUVCar) {
+            return this.selected.getCost() + 20;
         }
-        else if (car instanceof StandardCar) {
-            return this.inUse * 15;
+        else if (this.selected instanceof StandardCar) {
+            return this.selected.getCost() + 15;
         }
-        else if (car instanceof MinivanCar) {
-            return this.inUse * 15;
+        else if (this.selected instanceof MinivanCar) {
+            return this.selected.getCost() + 15;
         }
         else {
             return -1;
@@ -27,10 +27,10 @@ public class SatelliteRadio extends OptionsDecorator {
     }
     String toString() {
         if (inUse) {
-            return "Satellite radio";  
+            return this.selected.toString() + "Satellite radio";  
         }
         else {
-            return "";   
+            return this.selected.toString() + "";   
         } 
     }
 }
