@@ -9,7 +9,7 @@ public abstract class Car {
         this.cost = cost;
     }
  
-    private String getPlate() {
+    private String generatePlate() {
     	Random random = new Random();
     	final String alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
     	final int index = alphabet.length();
