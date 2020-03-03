@@ -25,13 +25,15 @@ public class GPS extends OptionsDecorator {
             return -1;
         }
     }
-    String toString(Car car) {
-        String carInfo = car.toString();
+    /*
+        Returns the car string along with 
+    */
+    String toString() {
         if (inUse) {
-            return carInfo + "GPS";  
+            return "GPS";  
         }
         else {
-            return carInfo + "None";   
+            return "";   
         }
     }
 }
