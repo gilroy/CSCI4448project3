@@ -25,13 +25,12 @@ public class SatelliteRadio extends OptionsDecorator {
             return -1;
         }
     }
-    String toString(Car car) {
-        String carInfo = car.toString();
+    String toString() {
         if (inUse) {
-            return carInfo + "Satellite radio";  
+            return "Satellite radio";  
         }
         else {
-            return carInfo;   
+            return "";   
         } 
     }
 }
