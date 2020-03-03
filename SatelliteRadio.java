@@ -26,11 +26,6 @@ public class SatelliteRadio extends OptionsDecorator {
         }
     }
     String toString() {
-        if (inUse) {
-            return this.selected.toString() + "Satellite radio";  
-        }
-        else {
-            return this.selected.toString() + "";   
-        } 
+        return this.selected.toString() + "Satellite radio";    
     }
 }
