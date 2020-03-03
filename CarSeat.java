@@ -28,11 +28,6 @@ public class CarSeat extends OptionsDecorator {
         }
     }
     String toString() {
-        if (inUse == 1) {
-            return this.selected.toString() + "child car seat";
-        }
-        else {
-            return this.selected.toString() + "";
-        }
+        return this.selected.toString() + "child car seat";
     }
 }
