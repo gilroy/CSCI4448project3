@@ -9,7 +9,7 @@ public abstract class Car {
         this.cost = cost;
     }
  
-    private String getPlate() {
+    private String generatePlate() {
     	Random random = new Random();
     	final String alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
     	final int index = alphabet.length();
@@ -33,8 +33,8 @@ public abstract class Car {
     private String plate = "";
     private int cost = 0;
     
-    public int getCost() {
-    	return cost;
+    public int getCost(int rental_length) {
+    	return rental_length*cost;
     }
     
     public void setCost(int cost) {

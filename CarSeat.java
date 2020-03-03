@@ -1,41 +1,33 @@
-
-
 public class CarSeat extends OptionsDecorator {
-    private int inUse;
+    private Car selected;
 
-    void CarSeat(int randNumbSeats) {
-        this.inUse = randNumbSeats;
+    void CarSeat(Car theCar) {
+        this.selected = theCar;
     }
 
-    int cost(Car car) {
-        if (car instanceof EconomyCar) {
-            return this.inUse * 5;
+    // Adds the correct cost of the option to the car subtype
+    int cost(int rental_length) {
+        if (this.selected instanceof EconomyCar) {
+            return this.selected.getCost() + 5;
         }
-        else if (car instanceof LuxuryCar) {
-            return this.inUse * 20;
+        else if (this.selected instanceof LuxuryCar) {
+            return this.selected.getCost() + 20;
         }
-        else if (car instanceof SUVCar) {
-            return this.inUse * 15;
+        else if (this.selected instanceof SUVCar) {
+            return this.selected.getCost() + 15;
         }
-        else if (car instanceof StandardCar) {
-            return this.inUse * 10;
+        else if (this.selected instanceof StandardCar) {
+            return this.selected.getCost() + 10;
         }
-        else if (car instanceof MinivanCar) {
-            return this.inUse * 10;
+        else if (this.selected instanceof MinivanCar) {
+            return this.selected.getCost() + 10;
         }
         else {
             return -1;
         }
     }
+    // Appends the car seat string to the car's info
     String toString() {
-        if (inUse == 1) {
-            return "child car seat"
-        }
-        else if (inUse > 1) {
-            return inUse + "child car seats"
-        }
-        else {
-            return "None"
-        }
+        return this.selected.toString() + " + child car seat";
     }
 }

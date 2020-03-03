@@ -1,36 +1,34 @@
 public class GPS extends OptionsDecorator {
-    private int inUse;
+    public Car selected;
 
-    void GPS(int randNumGPS) {
-        this.inUse = randNumGPS;
+    void GPS(Car theCar) {
+        this.selected = theCar;
     }
-
-    int cost(Car car) {
-        if (car instanceof EconomyCar) {
-            return this.inUse * 10;
+    
+    // Adds the cost of the option to the respective type of car
+    int cost(int rental_length) {
+        if (this.selected instanceof EconomyCar) {
+            return this.selected.getPrice() + 10;
         }
-        else if (car instanceof LuxuryCar) {
-            return this.inUse * 40;
+        else if (this.selected instanceof LuxuryCar) {
+            return this.selected.getCost() + 40;
         }
-        else if (car instanceof SUVCar) {
-            return this.inUse * 30;
+        else if (this.selected instanceof SUVCar) {
+            return this.selected.getCost() + 30;
         }
-        else if (car instanceof StandardCar) {
-            return this.inUse * 20;
+        else if (this.selected instanceof StandardCar) {
+            return this.selected.getCost() + 20;
         }
-        else if (car instanceof MinivanCar) {
-            return this.inUse * 20;
+        else if (this.selected instanceof MinivanCar) {
+            return this.selected.getCost() + 20;
         }
         else {
             return -1;
         }
     }
+    
+    // Appends the GPS string to the car's information
     String toString() {
-        if (inUse) {
-            return "GPS";  
-        }
-        else {
-            return "None";   
-        }
+        return this.selected.toString() + " + GPS";  
     }
 }

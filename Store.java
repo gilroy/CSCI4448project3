@@ -53,11 +53,11 @@ public class Store extends Observable{
                 continue;
             }
 
-            RentalRecord rental_record = new RentalRecord(this.client_list.get(client_index), this.available_cars);
+            RentalRecord rental_record = new RentalRecord(this.client_list.get(client_index), this.available_cars, today);
             active_rentals.add(rental_record);
             new_rentals.add(rental_record);
-            this.profit+= rental_record.getPrice();  
-            this.total_profit+=rental_record.getPrice();      
+            this.profit+= rental_record.getCost();  
+            this.total_profit+=rental_record.getCost();      
         }  
 
         setChanged();

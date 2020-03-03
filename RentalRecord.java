@@ -41,7 +41,7 @@ public class RentalRecord{
             this.rental_length = (int)(Math.random() * 2.9) + 3;
             this.return_day=today + this.rental_length;
         }
-
+        this.price = 0;
         for (Car car: cars){
             float gps = Math.random();
             float sat_radio = Math.random();
@@ -52,9 +52,12 @@ public class RentalRecord{
             for (int i = 0; i < car_seats;i++){
                 car = new CarSeat(car);
             }
+
+            price+=car.getCost(rental_length);
         }
     }
-    public float getPrice(){
+    
+    public float getCost(){
         return this.price;
     }
 
@@ -65,7 +68,10 @@ public class RentalRecord{
     public Customer getRenter(){
         return this.renter;
     }
-
+    /*
+        Displays information about every car that is part of this rental
+        (Renter name, duration of rental, total price, as well as name and options for each car)
+    */
     public String newRecordString(){
         String out="";
         out += "renter: " + renter.getName() + ", rental length: " + rental_length + ", price: " + price + "\n";
@@ -74,7 +80,7 @@ public class RentalRecord{
         }
         return out;
     }
-    
+
     public String toString(){
         String out="";
         for (Car car: cars){
