@@ -28,7 +28,7 @@ public class SatelliteRadio extends OptionsDecorator {
     String toString(Car car) {
         String carInfo = car.toString();
         if (inUse) {
-            return carInfo + "GPS";  
+            return carInfo + "Satellite radio";  
         }
         else {
             return carInfo + "None";   
