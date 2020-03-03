@@ -1,25 +1,25 @@
 public class GPS extends OptionsDecorator {
-    private int inUse;
+    public selected;
 
-    void GPS(int randNumGPS) {
-        this.inUse = randNumGPS;
+    void GPS(Car theCar) {
+        this.selected = theCar;
     }
 
     int cost(Car car) {
         if (car instanceof EconomyCar) {
-            return this.inUse * 10;
+            return this.selected.getPrice() + 10;
         }
         else if (car instanceof LuxuryCar) {
-            return this.inUse * 40;
+            return this.selected.getCost() + 40;
         }
         else if (car instanceof SUVCar) {
-            return this.inUse * 30;
+            return this.selected.getCost() + 30;
         }
         else if (car instanceof StandardCar) {
-            return this.inUse * 20;
+            return this.selected.getCost() + 20;
         }
         else if (car instanceof MinivanCar) {
-            return this.inUse * 20;
+            return this.selected.getCost() + 20;
         }
         else {
             return -1;
@@ -30,10 +30,10 @@ public class GPS extends OptionsDecorator {
     */
     String toString() {
         if (inUse) {
-            return "GPS";  
+            return this.selected.toString() + "GPS";  
         }
         else {
-            return "";   
+            return this.selected.toString() + "";   
         }
     }
 }
