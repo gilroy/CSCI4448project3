@@ -26,6 +26,7 @@ public class SatelliteRadio extends OptionsDecorator {
             return -1;
         }
     }
+    // Appends the Satellite radio string to the car's information
     String toString() {
         return this.selected.toString() + "Satellite radio";    
     }
