@@ -4,7 +4,8 @@ public class GPS extends OptionsDecorator {
     void GPS(Car theCar) {
         this.selected = theCar;
     }
-
+    
+    // Adds the cost of the option to the respective type of car
     int cost() {
         if (this.selected instanceof EconomyCar) {
             return this.selected.getPrice() + 10;
@@ -25,9 +26,8 @@ public class GPS extends OptionsDecorator {
             return -1;
         }
     }
-    /*
-        Returns the car string along with 
-    */
+    
+    // Appends the GPS string to the car's information
     String toString() {
         return this.selected.toString() + "GPS";  
     }
