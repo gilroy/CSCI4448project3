@@ -7,20 +7,20 @@ public class CarSeat extends OptionsDecorator {
         this.selected = theCar;
     }
 
-    int cost(Car car) {
-        if (car instanceof EconomyCar) {
+    int cost() {
+        if (this.selected instanceof EconomyCar) {
             return this.selected.getCost() + 5;
         }
-        else if (car instanceof LuxuryCar) {
+        else if (this.selected instanceof LuxuryCar) {
             return this.selected.getCost() + 20;
         }
-        else if (car instanceof SUVCar) {
+        else if (this.selected instanceof SUVCar) {
             return this.selected.getCost() + 15;
         }
-        else if (car instanceof StandardCar) {
+        else if (this.selected instanceof StandardCar) {
             return this.selected.getCost() + 10;
         }
-        else if (car instanceof MinivanCar) {
+        else if (this.selected instanceof MinivanCar) {
             return this.selected.getCost() + 10;
         }
         else {
