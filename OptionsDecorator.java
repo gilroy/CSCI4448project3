@@ -6,5 +6,6 @@ public abstract class OptionsDecorator extends Car {
         The cost function is overridden by each option class, since they don't have the same prices.
     */
     abstract int cost(Car car);
+    abstract String toString();
     int inUse;
 }
