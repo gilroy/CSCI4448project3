@@ -27,15 +27,16 @@ public class CarSeat extends OptionsDecorator {
             return -1;
         }
     }
-    String toString() {
+    String toString(Car car) {
+        String carInfo = car.toString();
         if (inUse == 1) {
-            return "child car seat"
+            return carInfo + "child car seat"
         }
         else if (inUse > 1) {
-            return inUse + "child car seats"
+            return carInfo + inUse + "child car seats"
         }
         else {
-            return "None"
+            return carInfo + "None"
         }
     }
 }
