@@ -13,7 +13,7 @@ public class RentalRecord{
     public RentalRecord(Customer renter, List<Car> available_cars){
         this.renter=renter;
     }
-
+    
     public float getPrice(){
         return this.price;
     }
@@ -25,7 +25,10 @@ public class RentalRecord{
     public Customer getRenter(){
         return this.renter;
     }
-
+    /*
+        Displays information about every car that is part of this rental
+        (Renter name, duration of rental, total price, as well as name and options for each car)
+    */
     public String newRecordString(){
         String out="";
         out += "renter: " + renter.getName() + ", rental length: " + rental_length + ", price: " + price + "\n";
@@ -34,7 +37,7 @@ public class RentalRecord{
         }
         return out;
     }
-    
+
     public String toString(){
         String out="";
         for (Car car: cars){
