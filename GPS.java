@@ -29,11 +29,6 @@ public class GPS extends OptionsDecorator {
         Returns the car string along with 
     */
     String toString() {
-        if (inUse) {
-            return this.selected.toString() + "GPS";  
-        }
-        else {
-            return this.selected.toString() + "";   
-        }
+        return this.selected.toString() + "GPS";  
     }
 }
