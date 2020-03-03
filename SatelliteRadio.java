@@ -31,7 +31,7 @@ public class SatelliteRadio extends OptionsDecorator {
             return carInfo + "Satellite radio";  
         }
         else {
-            return carInfo + "None";   
+            return carInfo;   
         } 
     }
 }
