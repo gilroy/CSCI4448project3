@@ -5,6 +5,7 @@ public class CarSeat extends OptionsDecorator {
         this.selected = theCar;
     }
 
+    // Adds the correct cost of the option to the car subtype
     int cost() {
         if (this.selected instanceof EconomyCar) {
             return this.selected.getCost() + 5;
@@ -25,6 +26,7 @@ public class CarSeat extends OptionsDecorator {
             return -1;
         }
     }
+    // Appends the car seat string to the car's info
     String toString() {
         return this.selected.toString() + "child car seat";
     }
