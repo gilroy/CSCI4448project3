@@ -1,5 +1,3 @@
-
-
 public class CarSeat extends OptionsDecorator {
     private Car selected;
 
