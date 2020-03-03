@@ -5,6 +5,7 @@ public class SatelliteRadio extends OptionsDecorator {
         this.selected = theCar;
     }
 
+    // Adds the correct cost of the option to the car subtype
     int cost() {
         if (this.selected instanceof EconomyCar) {
             return this.selected.getCost() + 8;
