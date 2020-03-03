@@ -25,4 +25,12 @@ public class GPS extends OptionsDecorator {
             return -1;
         }
     }
+    String toString() {
+        if (inUse) {
+            return "GPS";  
+        }
+        else {
+            return "None";   
+        }
+    }
 }
