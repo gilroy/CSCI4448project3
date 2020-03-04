@@ -6,6 +6,7 @@ Language: Java
 
 Environment: Visual Studio Code, IntelliJ IDEA
 
-enter rentalshop directory
 run 
->java rentalshop.main
+>java rentalshop.Main
+
+Results are printed to 
