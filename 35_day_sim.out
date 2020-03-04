@@ -1,0 +1,2011 @@
+######### DAY 1 #########
+    Number of New Rentals today: 9
+        renter: Lucy, days rented: 3, price: 195.0
+          car- plate: EUX476, model:STANDARD +child-seat +child-seat +child-seat
+
+        renter: Bevis, days rented: 7, price: 1535.0
+          car- plate: JRW260, model:STANDARD +GPS +Sat-radio +child-seat +child-seat +child-seat +child-seat
+          car- plate: MQF712, model:STANDARD +GPS +Sat-radio +child-seat
+          car- plate: CJB420, model:SUV +GPS +Sat-radio +child-seat +child-seat +child-seat +child-seat
+
+        renter: Ignus, days rented: 2, price: 210.0
+          car- plate: AWL889, model:SUV +child-seat +child-seat +child-seat +child-seat
+
+        renter: Charly, days rented: 7, price: 1755.0
+          car- plate: JEI571, model:SUV +GPS +Sat-radio
+          car- plate: ORS443, model:SUV +Sat-radio
+          car- plate: ZLP799, model:SUV +GPS +Sat-radio +child-seat +child-seat +child-seat +child-seat
+
+        renter: Eve, days rented: 3, price: 745.0
+          car- plate: OHV806, model:SUV +GPS
+          car- plate: ERI468, model:LUXURY +GPS
+
+        renter: Adam, days rented: 7, price: 3350.0
+          car- plate: SEK692, model:LUXURY +Sat-radio +child-seat +child-seat
+          car- plate: LCC291, model:LUXURY +Sat-radio +child-seat +child-seat +child-seat +child-seat
+          car- plate: CBG375, model:LUXURY
+
+        renter: Kate, days rented: 3, price: 490.0
+          car- plate: JAS766, model:LUXURY +GPS
+
+        renter: Lucy, days rented: 2, price: 360.0
+          car- plate: GBU542, model:LUXURY +child-seat +child-seat +child-seat
+
+        renter: Ignus, days rented: 2, price: 115.0
+          car- plate: CXE366, model:ECONOMY +child-seat +child-seat +child-seat
+
+
+    Number of Total Active Rentals: 9
+        renter: Lucy, days rented: 3, price: 195.0
+          car- plate: EUX476, model:STANDARD +child-seat +child-seat +child-seat
+
+        renter: Bevis, days rented: 7, price: 1535.0
+          car- plate: JRW260, model:STANDARD +GPS +Sat-radio +child-seat +child-seat +child-seat +child-seat
+          car- plate: MQF712, model:STANDARD +GPS +Sat-radio +child-seat
+          car- plate: CJB420, model:SUV +GPS +Sat-radio +child-seat +child-seat +child-seat +child-seat
+
+        renter: Ignus, days rented: 2, price: 210.0
+          car- plate: AWL889, model:SUV +child-seat +child-seat +child-seat +child-seat
+
+        renter: Charly, days rented: 7, price: 1755.0
+          car- plate: JEI571, model:SUV +GPS +Sat-radio
+          car- plate: ORS443, model:SUV +Sat-radio
+          car- plate: ZLP799, model:SUV +GPS +Sat-radio +child-seat +child-seat +child-seat +child-seat
+
+        renter: Eve, days rented: 3, price: 745.0
+          car- plate: OHV806, model:SUV +GPS
+          car- plate: ERI468, model:LUXURY +GPS
+
+        renter: Adam, days rented: 7, price: 3350.0
+          car- plate: SEK692, model:LUXURY +Sat-radio +child-seat +child-seat
+          car- plate: LCC291, model:LUXURY +Sat-radio +child-seat +child-seat +child-seat +child-seat
+          car- plate: CBG375, model:LUXURY
+
+        renter: Kate, days rented: 3, price: 490.0
+          car- plate: JAS766, model:LUXURY +GPS
+
+        renter: Lucy, days rented: 2, price: 360.0
+          car- plate: GBU542, model:LUXURY +child-seat +child-seat +child-seat
+
+        renter: Ignus, days rented: 2, price: 115.0
+          car- plate: CXE366, model:ECONOMY +child-seat +child-seat +child-seat
+
+    Number of Unrented Cars: 8
+        plate: GON800, model:ECONOMY
+        plate: BRG597, model:ECONOMY
+        plate: VCJ899, model:ECONOMY
+        plate: ZWN689, model:ECONOMY
+        plate: EXS368, model:MINIVAN
+        plate: HRM735, model:MINIVAN
+        plate: XPN357, model:MINIVAN
+        plate: MQR318, model:MINIVAN
+    Todays Revenue:8755.0
+
+######### DAY 2 #########
+    Number of New Rentals today: 1
+        renter: Ignus, days rented: 3, price: 160.0
+          car- plate: GON800, model:ECONOMY +child-seat +child-seat
+
+
+    Number of Total Active Rentals: 10
+        renter: Lucy, days rented: 3, price: 195.0
+          car- plate: EUX476, model:STANDARD +child-seat +child-seat +child-seat
+
+        renter: Bevis, days rented: 7, price: 1535.0
+          car- plate: JRW260, model:STANDARD +GPS +Sat-radio +child-seat +child-seat +child-seat +child-seat
+          car- plate: MQF712, model:STANDARD +GPS +Sat-radio +child-seat
+          car- plate: CJB420, model:SUV +GPS +Sat-radio +child-seat +child-seat +child-seat +child-seat
+
+        renter: Ignus, days rented: 2, price: 210.0
+          car- plate: AWL889, model:SUV +child-seat +child-seat +child-seat +child-seat
+
+        renter: Charly, days rented: 7, price: 1755.0
+          car- plate: JEI571, model:SUV +GPS +Sat-radio
+          car- plate: ORS443, model:SUV +Sat-radio
+          car- plate: ZLP799, model:SUV +GPS +Sat-radio +child-seat +child-seat +child-seat +child-seat
+
+        renter: Eve, days rented: 3, price: 745.0
+          car- plate: OHV806, model:SUV +GPS
+          car- plate: ERI468, model:LUXURY +GPS
+
+        renter: Adam, days rented: 7, price: 3350.0
+          car- plate: SEK692, model:LUXURY +Sat-radio +child-seat +child-seat
+          car- plate: LCC291, model:LUXURY +Sat-radio +child-seat +child-seat +child-seat +child-seat
+          car- plate: CBG375, model:LUXURY
+
+        renter: Kate, days rented: 3, price: 490.0
+          car- plate: JAS766, model:LUXURY +GPS
+
+        renter: Lucy, days rented: 2, price: 360.0
+          car- plate: GBU542, model:LUXURY +child-seat +child-seat +child-seat
+
+        renter: Ignus, days rented: 2, price: 115.0
+          car- plate: CXE366, model:ECONOMY +child-seat +child-seat +child-seat
+
+        renter: Ignus, days rented: 3, price: 160.0
+          car- plate: GON800, model:ECONOMY +child-seat +child-seat
+
+    Number of Unrented Cars: 7
+        plate: BRG597, model:ECONOMY
+        plate: VCJ899, model:ECONOMY
+        plate: ZWN689, model:ECONOMY
+        plate: EXS368, model:MINIVAN
+        plate: HRM735, model:MINIVAN
+        plate: XPN357, model:MINIVAN
+        plate: MQR318, model:MINIVAN
+    Todays Revenue:160.0
+
+######### DAY 3 #########
+    Number of New Rentals today: 4
+        renter: Grace, days rented: 3, price: 158.0
+          car- plate: BRG597, model:ECONOMY +Sat-radio
+
+        renter: Kate, days rented: 3, price: 165.0
+          car- plate: VCJ899, model:ECONOMY +child-seat +child-seat +child-seat
+
+        renter: Adam, days rented: 7, price: 1245.0
+          car- plate: ZWN689, model:ECONOMY +child-seat
+          car- plate: EXS368, model:MINIVAN +Sat-radio
+          car- plate: HRM735, model:MINIVAN +GPS +Sat-radio
+
+        renter: Eve, days rented: 4, price: 250.0
+          car- plate: XPN357, model:MINIVAN +child-seat
+
+
+    Number of Total Active Rentals: 11
+        renter: Lucy, days rented: 3, price: 195.0
+          car- plate: EUX476, model:STANDARD +child-seat +child-seat +child-seat
+
+        renter: Bevis, days rented: 7, price: 1535.0
+          car- plate: JRW260, model:STANDARD +GPS +Sat-radio +child-seat +child-seat +child-seat +child-seat
+          car- plate: MQF712, model:STANDARD +GPS +Sat-radio +child-seat
+          car- plate: CJB420, model:SUV +GPS +Sat-radio +child-seat +child-seat +child-seat +child-seat
+
+        renter: Charly, days rented: 7, price: 1755.0
+          car- plate: JEI571, model:SUV +GPS +Sat-radio
+          car- plate: ORS443, model:SUV +Sat-radio
+          car- plate: ZLP799, model:SUV +GPS +Sat-radio +child-seat +child-seat +child-seat +child-seat
+
+        renter: Eve, days rented: 3, price: 745.0
+          car- plate: OHV806, model:SUV +GPS
+          car- plate: ERI468, model:LUXURY +GPS
+
+        renter: Adam, days rented: 7, price: 3350.0
+          car- plate: SEK692, model:LUXURY +Sat-radio +child-seat +child-seat
+          car- plate: LCC291, model:LUXURY +Sat-radio +child-seat +child-seat +child-seat +child-seat
+          car- plate: CBG375, model:LUXURY
+
+        renter: Kate, days rented: 3, price: 490.0
+          car- plate: JAS766, model:LUXURY +GPS
+
+        renter: Ignus, days rented: 3, price: 160.0
+          car- plate: GON800, model:ECONOMY +child-seat +child-seat
+
+        renter: Grace, days rented: 3, price: 158.0
+          car- plate: BRG597, model:ECONOMY +Sat-radio
+
+        renter: Kate, days rented: 3, price: 165.0
+          car- plate: VCJ899, model:ECONOMY +child-seat +child-seat +child-seat
+
+        renter: Adam, days rented: 7, price: 1245.0
+          car- plate: ZWN689, model:ECONOMY +child-seat
+          car- plate: EXS368, model:MINIVAN +Sat-radio
+          car- plate: HRM735, model:MINIVAN +GPS +Sat-radio
+
+        renter: Eve, days rented: 4, price: 250.0
+          car- plate: XPN357, model:MINIVAN +child-seat
+
+    Number of Unrented Cars: 4
+        plate: MQR318, model:MINIVAN
+        plate: AWL889, model:SUV
+        plate: GBU542, model:LUXURY
+        plate: CXE366, model:ECONOMY
+    Todays Revenue:1818.0
+
+######### DAY 4 #########
+    Number of New Rentals today: 3
+        renter: Farah, days rented: 3, price: 190.0
+          car- plate: MQR318, model:MINIVAN +child-seat
+
+        renter: Lucy, days rented: 2, price: 180.0
+          car- plate: AWL889, model:SUV +GPS
+
+        renter: Eve, days rented: 5, price: 1303.0
+          car- plate: GBU542, model:LUXURY
+          car- plate: CXE366, model:ECONOMY +Sat-radio +child-seat +child-seat
+          car- plate: EUX476, model:STANDARD +child-seat
+
+
+    Number of Total Active Rentals: 11
+        renter: Bevis, days rented: 7, price: 1535.0
+          car- plate: JRW260, model:STANDARD +GPS +Sat-radio +child-seat +child-seat +child-seat +child-seat
+          car- plate: MQF712, model:STANDARD +GPS +Sat-radio +child-seat
+          car- plate: CJB420, model:SUV +GPS +Sat-radio +child-seat +child-seat +child-seat +child-seat
+
+        renter: Charly, days rented: 7, price: 1755.0
+          car- plate: JEI571, model:SUV +GPS +Sat-radio
+          car- plate: ORS443, model:SUV +Sat-radio
+          car- plate: ZLP799, model:SUV +GPS +Sat-radio +child-seat +child-seat +child-seat +child-seat
+
+        renter: Adam, days rented: 7, price: 3350.0
+          car- plate: SEK692, model:LUXURY +Sat-radio +child-seat +child-seat
+          car- plate: LCC291, model:LUXURY +Sat-radio +child-seat +child-seat +child-seat +child-seat
+          car- plate: CBG375, model:LUXURY
+
+        renter: Ignus, days rented: 3, price: 160.0
+          car- plate: GON800, model:ECONOMY +child-seat +child-seat
+
+        renter: Grace, days rented: 3, price: 158.0
+          car- plate: BRG597, model:ECONOMY +Sat-radio
+
+        renter: Kate, days rented: 3, price: 165.0
+          car- plate: VCJ899, model:ECONOMY +child-seat +child-seat +child-seat
+
+        renter: Adam, days rented: 7, price: 1245.0
+          car- plate: ZWN689, model:ECONOMY +child-seat
+          car- plate: EXS368, model:MINIVAN +Sat-radio
+          car- plate: HRM735, model:MINIVAN +GPS +Sat-radio
+
+        renter: Eve, days rented: 4, price: 250.0
+          car- plate: XPN357, model:MINIVAN +child-seat
+
+        renter: Farah, days rented: 3, price: 190.0
+          car- plate: MQR318, model:MINIVAN +child-seat
+
+        renter: Lucy, days rented: 2, price: 180.0
+          car- plate: AWL889, model:SUV +GPS
+
+        renter: Eve, days rented: 5, price: 1303.0
+          car- plate: GBU542, model:LUXURY
+          car- plate: CXE366, model:ECONOMY +Sat-radio +child-seat +child-seat
+          car- plate: EUX476, model:STANDARD +child-seat
+
+    Number of Unrented Cars: 3
+        plate: OHV806, model:SUV
+        plate: ERI468, model:LUXURY
+        plate: JAS766, model:LUXURY
+    Todays Revenue:1673.0
+
+######### DAY 5 #########
+    Number of New Rentals today: 0
+
+    Number of Total Active Rentals: 10
+        renter: Bevis, days rented: 7, price: 1535.0
+          car- plate: JRW260, model:STANDARD +GPS +Sat-radio +child-seat +child-seat +child-seat +child-seat
+          car- plate: MQF712, model:STANDARD +GPS +Sat-radio +child-seat
+          car- plate: CJB420, model:SUV +GPS +Sat-radio +child-seat +child-seat +child-seat +child-seat
+
+        renter: Charly, days rented: 7, price: 1755.0
+          car- plate: JEI571, model:SUV +GPS +Sat-radio
+          car- plate: ORS443, model:SUV +Sat-radio
+          car- plate: ZLP799, model:SUV +GPS +Sat-radio +child-seat +child-seat +child-seat +child-seat
+
+        renter: Adam, days rented: 7, price: 3350.0
+          car- plate: SEK692, model:LUXURY +Sat-radio +child-seat +child-seat
+          car- plate: LCC291, model:LUXURY +Sat-radio +child-seat +child-seat +child-seat +child-seat
+          car- plate: CBG375, model:LUXURY
+
+        renter: Grace, days rented: 3, price: 158.0
+          car- plate: BRG597, model:ECONOMY +Sat-radio
+
+        renter: Kate, days rented: 3, price: 165.0
+          car- plate: VCJ899, model:ECONOMY +child-seat +child-seat +child-seat
+
+        renter: Adam, days rented: 7, price: 1245.0
+          car- plate: ZWN689, model:ECONOMY +child-seat
+          car- plate: EXS368, model:MINIVAN +Sat-radio
+          car- plate: HRM735, model:MINIVAN +GPS +Sat-radio
+
+        renter: Eve, days rented: 4, price: 250.0
+          car- plate: XPN357, model:MINIVAN +child-seat
+
+        renter: Farah, days rented: 3, price: 190.0
+          car- plate: MQR318, model:MINIVAN +child-seat
+
+        renter: Lucy, days rented: 2, price: 180.0
+          car- plate: AWL889, model:SUV +GPS
+
+        renter: Eve, days rented: 5, price: 1303.0
+          car- plate: GBU542, model:LUXURY
+          car- plate: CXE366, model:ECONOMY +Sat-radio +child-seat +child-seat
+          car- plate: EUX476, model:STANDARD +child-seat
+
+    Number of Unrented Cars: 4
+        plate: OHV806, model:SUV
+        plate: ERI468, model:LUXURY
+        plate: JAS766, model:LUXURY
+        plate: GON800, model:ECONOMY
+    Todays Revenue:0.0
+
+######### DAY 6 #########
+    Number of New Rentals today: 3
+        renter: Kate, days rented: 3, price: 305.0
+          car- plate: OHV806, model:SUV +GPS +Sat-radio +child-seat +child-seat
+
+        renter: Charly, days rented: 7, price: 2583.0
+          car- plate: ERI468, model:LUXURY +child-seat +child-seat +child-seat
+          car- plate: JAS766, model:LUXURY +GPS
+          car- plate: GON800, model:ECONOMY +GPS +Sat-radio +child-seat +child-seat +child-seat
+
+        renter: Ignus, days rented: 2, price: 130.0
+          car- plate: BRG597, model:ECONOMY +GPS +child-seat +child-seat +child-seat +child-seat
+
+
+    Number of Total Active Rentals: 10
+        renter: Bevis, days rented: 7, price: 1535.0
+          car- plate: JRW260, model:STANDARD +GPS +Sat-radio +child-seat +child-seat +child-seat +child-seat
+          car- plate: MQF712, model:STANDARD +GPS +Sat-radio +child-seat
+          car- plate: CJB420, model:SUV +GPS +Sat-radio +child-seat +child-seat +child-seat +child-seat
+
+        renter: Charly, days rented: 7, price: 1755.0
+          car- plate: JEI571, model:SUV +GPS +Sat-radio
+          car- plate: ORS443, model:SUV +Sat-radio
+          car- plate: ZLP799, model:SUV +GPS +Sat-radio +child-seat +child-seat +child-seat +child-seat
+
+        renter: Adam, days rented: 7, price: 3350.0
+          car- plate: SEK692, model:LUXURY +Sat-radio +child-seat +child-seat
+          car- plate: LCC291, model:LUXURY +Sat-radio +child-seat +child-seat +child-seat +child-seat
+          car- plate: CBG375, model:LUXURY
+
+        renter: Adam, days rented: 7, price: 1245.0
+          car- plate: ZWN689, model:ECONOMY +child-seat
+          car- plate: EXS368, model:MINIVAN +Sat-radio
+          car- plate: HRM735, model:MINIVAN +GPS +Sat-radio
+
+        renter: Eve, days rented: 4, price: 250.0
+          car- plate: XPN357, model:MINIVAN +child-seat
+
+        renter: Farah, days rented: 3, price: 190.0
+          car- plate: MQR318, model:MINIVAN +child-seat
+
+        renter: Eve, days rented: 5, price: 1303.0
+          car- plate: GBU542, model:LUXURY
+          car- plate: CXE366, model:ECONOMY +Sat-radio +child-seat +child-seat
+          car- plate: EUX476, model:STANDARD +child-seat
+
+        renter: Kate, days rented: 3, price: 305.0
+          car- plate: OHV806, model:SUV +GPS +Sat-radio +child-seat +child-seat
+
+        renter: Charly, days rented: 7, price: 2583.0
+          car- plate: ERI468, model:LUXURY +child-seat +child-seat +child-seat
+          car- plate: JAS766, model:LUXURY +GPS
+          car- plate: GON800, model:ECONOMY +GPS +Sat-radio +child-seat +child-seat +child-seat
+
+        renter: Ignus, days rented: 2, price: 130.0
+          car- plate: BRG597, model:ECONOMY +GPS +child-seat +child-seat +child-seat +child-seat
+
+    Number of Unrented Cars: 2
+        plate: VCJ899, model:ECONOMY
+        plate: AWL889, model:SUV
+    Todays Revenue:3018.0
+
+######### DAY 7 #########
+    Number of New Rentals today: 2
+        renter: Grace, days rented: 4, price: 218.0
+          car- plate: VCJ899, model:ECONOMY +GPS +Sat-radio
+
+        renter: Lucy, days rented: 2, price: 225.0
+          car- plate: AWL889, model:SUV +GPS +child-seat +child-seat +child-seat
+
+
+    Number of Total Active Rentals: 10
+        renter: Bevis, days rented: 7, price: 1535.0
+          car- plate: JRW260, model:STANDARD +GPS +Sat-radio +child-seat +child-seat +child-seat +child-seat
+          car- plate: MQF712, model:STANDARD +GPS +Sat-radio +child-seat
+          car- plate: CJB420, model:SUV +GPS +Sat-radio +child-seat +child-seat +child-seat +child-seat
+
+        renter: Charly, days rented: 7, price: 1755.0
+          car- plate: JEI571, model:SUV +GPS +Sat-radio
+          car- plate: ORS443, model:SUV +Sat-radio
+          car- plate: ZLP799, model:SUV +GPS +Sat-radio +child-seat +child-seat +child-seat +child-seat
+
+        renter: Adam, days rented: 7, price: 3350.0
+          car- plate: SEK692, model:LUXURY +Sat-radio +child-seat +child-seat
+          car- plate: LCC291, model:LUXURY +Sat-radio +child-seat +child-seat +child-seat +child-seat
+          car- plate: CBG375, model:LUXURY
+
+        renter: Adam, days rented: 7, price: 1245.0
+          car- plate: ZWN689, model:ECONOMY +child-seat
+          car- plate: EXS368, model:MINIVAN +Sat-radio
+          car- plate: HRM735, model:MINIVAN +GPS +Sat-radio
+
+        renter: Eve, days rented: 5, price: 1303.0
+          car- plate: GBU542, model:LUXURY
+          car- plate: CXE366, model:ECONOMY +Sat-radio +child-seat +child-seat
+          car- plate: EUX476, model:STANDARD +child-seat
+
+        renter: Kate, days rented: 3, price: 305.0
+          car- plate: OHV806, model:SUV +GPS +Sat-radio +child-seat +child-seat
+
+        renter: Charly, days rented: 7, price: 2583.0
+          car- plate: ERI468, model:LUXURY +child-seat +child-seat +child-seat
+          car- plate: JAS766, model:LUXURY +GPS
+          car- plate: GON800, model:ECONOMY +GPS +Sat-radio +child-seat +child-seat +child-seat
+
+        renter: Ignus, days rented: 2, price: 130.0
+          car- plate: BRG597, model:ECONOMY +GPS +child-seat +child-seat +child-seat +child-seat
+
+        renter: Grace, days rented: 4, price: 218.0
+          car- plate: VCJ899, model:ECONOMY +GPS +Sat-radio
+
+        renter: Lucy, days rented: 2, price: 225.0
+          car- plate: AWL889, model:SUV +GPS +child-seat +child-seat +child-seat
+
+    Number of Unrented Cars: 2
+        plate: XPN357, model:MINIVAN
+        plate: MQR318, model:MINIVAN
+    Todays Revenue:443.0
+
+######### DAY 8 #########
+    Number of New Rentals today: 1
+        renter: Eve, days rented: 4, price: 825.0
+          car- plate: XPN357, model:MINIVAN +Sat-radio +child-seat +child-seat +child-seat
+          car- plate: MQR318, model:MINIVAN +GPS +child-seat +child-seat +child-seat +child-seat
+          car- plate: JRW260, model:STANDARD +GPS
+
+
+    Number of Total Active Rentals: 7
+        renter: Adam, days rented: 7, price: 1245.0
+          car- plate: ZWN689, model:ECONOMY +child-seat
+          car- plate: EXS368, model:MINIVAN +Sat-radio
+          car- plate: HRM735, model:MINIVAN +GPS +Sat-radio
+
+        renter: Eve, days rented: 5, price: 1303.0
+          car- plate: GBU542, model:LUXURY
+          car- plate: CXE366, model:ECONOMY +Sat-radio +child-seat +child-seat
+          car- plate: EUX476, model:STANDARD +child-seat
+
+        renter: Kate, days rented: 3, price: 305.0
+          car- plate: OHV806, model:SUV +GPS +Sat-radio +child-seat +child-seat
+
+        renter: Charly, days rented: 7, price: 2583.0
+          car- plate: ERI468, model:LUXURY +child-seat +child-seat +child-seat
+          car- plate: JAS766, model:LUXURY +GPS
+          car- plate: GON800, model:ECONOMY +GPS +Sat-radio +child-seat +child-seat +child-seat
+
+        renter: Grace, days rented: 4, price: 218.0
+          car- plate: VCJ899, model:ECONOMY +GPS +Sat-radio
+
+        renter: Lucy, days rented: 2, price: 225.0
+          car- plate: AWL889, model:SUV +GPS +child-seat +child-seat +child-seat
+
+        renter: Eve, days rented: 4, price: 825.0
+          car- plate: XPN357, model:MINIVAN +Sat-radio +child-seat +child-seat +child-seat
+          car- plate: MQR318, model:MINIVAN +GPS +child-seat +child-seat +child-seat +child-seat
+          car- plate: JRW260, model:STANDARD +GPS
+
+    Number of Unrented Cars: 9
+        plate: MQF712, model:STANDARD
+        plate: CJB420, model:SUV
+        plate: JEI571, model:SUV
+        plate: ORS443, model:SUV
+        plate: ZLP799, model:SUV
+        plate: SEK692, model:LUXURY
+        plate: LCC291, model:LUXURY
+        plate: CBG375, model:LUXURY
+        plate: BRG597, model:ECONOMY
+    Todays Revenue:825.0
+
+######### DAY 9 #########
+    Number of New Rentals today: 3
+        renter: Dereck, days rented: 7, price: 1640.0
+          car- plate: MQF712, model:STANDARD +Sat-radio +child-seat +child-seat +child-seat
+          car- plate: CJB420, model:SUV +GPS +child-seat +child-seat
+          car- plate: JEI571, model:SUV +GPS +Sat-radio +child-seat +child-seat +child-seat
+
+        renter: Ignus, days rented: 1, price: 105.0
+          car- plate: ORS443, model:SUV +GPS
+
+        renter: Lucy, days rented: 2, price: 200.0
+          car- plate: ZLP799, model:SUV +Sat-radio +child-seat +child-seat
+
+
+    Number of Total Active Rentals: 7
+        renter: Adam, days rented: 7, price: 1245.0
+          car- plate: ZWN689, model:ECONOMY +child-seat
+          car- plate: EXS368, model:MINIVAN +Sat-radio
+          car- plate: HRM735, model:MINIVAN +GPS +Sat-radio
+
+        renter: Charly, days rented: 7, price: 2583.0
+          car- plate: ERI468, model:LUXURY +child-seat +child-seat +child-seat
+          car- plate: JAS766, model:LUXURY +GPS
+          car- plate: GON800, model:ECONOMY +GPS +Sat-radio +child-seat +child-seat +child-seat
+
+        renter: Grace, days rented: 4, price: 218.0
+          car- plate: VCJ899, model:ECONOMY +GPS +Sat-radio
+
+        renter: Eve, days rented: 4, price: 825.0
+          car- plate: XPN357, model:MINIVAN +Sat-radio +child-seat +child-seat +child-seat
+          car- plate: MQR318, model:MINIVAN +GPS +child-seat +child-seat +child-seat +child-seat
+          car- plate: JRW260, model:STANDARD +GPS
+
+        renter: Dereck, days rented: 7, price: 1640.0
+          car- plate: MQF712, model:STANDARD +Sat-radio +child-seat +child-seat +child-seat
+          car- plate: CJB420, model:SUV +GPS +child-seat +child-seat
+          car- plate: JEI571, model:SUV +GPS +Sat-radio +child-seat +child-seat +child-seat
+
+        renter: Ignus, days rented: 1, price: 105.0
+          car- plate: ORS443, model:SUV +GPS
+
+        renter: Lucy, days rented: 2, price: 200.0
+          car- plate: ZLP799, model:SUV +Sat-radio +child-seat +child-seat
+
+    Number of Unrented Cars: 9
+        plate: SEK692, model:LUXURY
+        plate: LCC291, model:LUXURY
+        plate: CBG375, model:LUXURY
+        plate: BRG597, model:ECONOMY
+        plate: GBU542, model:LUXURY
+        plate: CXE366, model:ECONOMY
+        plate: EUX476, model:STANDARD
+        plate: OHV806, model:SUV
+        plate: AWL889, model:SUV
+    Todays Revenue:1945.0
+
+######### DAY 10 #########
+    Number of New Rentals today: 2
+        renter: Adam, days rented: 7, price: 3310.0
+          car- plate: SEK692, model:LUXURY +child-seat +child-seat
+          car- plate: LCC291, model:LUXURY +child-seat +child-seat +child-seat +child-seat
+          car- plate: CBG375, model:LUXURY +child-seat +child-seat
+
+        renter: Farah, days rented: 3, price: 891.0
+          car- plate: BRG597, model:ECONOMY +GPS +Sat-radio +child-seat +child-seat
+          car- plate: GBU542, model:LUXURY +child-seat +child-seat +child-seat +child-seat
+          car- plate: CXE366, model:ECONOMY +GPS +Sat-radio +child-seat +child-seat +child-seat
+
+
+    Number of Total Active Rentals: 7
+        renter: Charly, days rented: 7, price: 2583.0
+          car- plate: ERI468, model:LUXURY +child-seat +child-seat +child-seat
+          car- plate: JAS766, model:LUXURY +GPS
+          car- plate: GON800, model:ECONOMY +GPS +Sat-radio +child-seat +child-seat +child-seat
+
+        renter: Grace, days rented: 4, price: 218.0
+          car- plate: VCJ899, model:ECONOMY +GPS +Sat-radio
+
+        renter: Eve, days rented: 4, price: 825.0
+          car- plate: XPN357, model:MINIVAN +Sat-radio +child-seat +child-seat +child-seat
+          car- plate: MQR318, model:MINIVAN +GPS +child-seat +child-seat +child-seat +child-seat
+          car- plate: JRW260, model:STANDARD +GPS
+
+        renter: Dereck, days rented: 7, price: 1640.0
+          car- plate: MQF712, model:STANDARD +Sat-radio +child-seat +child-seat +child-seat
+          car- plate: CJB420, model:SUV +GPS +child-seat +child-seat
+          car- plate: JEI571, model:SUV +GPS +Sat-radio +child-seat +child-seat +child-seat
+
+        renter: Lucy, days rented: 2, price: 200.0
+          car- plate: ZLP799, model:SUV +Sat-radio +child-seat +child-seat
+
+        renter: Adam, days rented: 7, price: 3310.0
+          car- plate: SEK692, model:LUXURY +child-seat +child-seat
+          car- plate: LCC291, model:LUXURY +child-seat +child-seat +child-seat +child-seat
+          car- plate: CBG375, model:LUXURY +child-seat +child-seat
+
+        renter: Farah, days rented: 3, price: 891.0
+          car- plate: BRG597, model:ECONOMY +GPS +Sat-radio +child-seat +child-seat
+          car- plate: GBU542, model:LUXURY +child-seat +child-seat +child-seat +child-seat
+          car- plate: CXE366, model:ECONOMY +GPS +Sat-radio +child-seat +child-seat +child-seat
+
+    Number of Unrented Cars: 7
+        plate: EUX476, model:STANDARD
+        plate: OHV806, model:SUV
+        plate: AWL889, model:SUV
+        plate: ZWN689, model:ECONOMY
+        plate: EXS368, model:MINIVAN
+        plate: HRM735, model:MINIVAN
+        plate: ORS443, model:SUV
+    Todays Revenue:4201.0
+
+######### DAY 11 #########
+    Number of New Rentals today: 5
+        renter: Bevis, days rented: 7, price: 1560.0
+          car- plate: EUX476, model:STANDARD +Sat-radio +child-seat +child-seat +child-seat
+          car- plate: OHV806, model:SUV +GPS +child-seat
+          car- plate: AWL889, model:SUV +child-seat +child-seat
+
+        renter: Ignus, days rented: 2, price: 123.0
+          car- plate: ZWN689, model:ECONOMY +Sat-radio +child-seat +child-seat +child-seat
+
+        renter: Kate, days rented: 3, price: 235.0
+          car- plate: EXS368, model:MINIVAN +Sat-radio +child-seat +child-seat +child-seat +child-seat
+
+        renter: Adam, days rented: 7, price: 1378.0
+          car- plate: HRM735, model:MINIVAN +GPS
+          car- plate: ORS443, model:SUV +Sat-radio +child-seat +child-seat
+          car- plate: VCJ899, model:ECONOMY +Sat-radio +child-seat
+
+        renter: Lucy, days rented: 1, price: 185.0
+          car- plate: ZLP799, model:SUV +GPS +Sat-radio +child-seat +child-seat +child-seat +child-seat
+
+
+    Number of Total Active Rentals: 10
+        renter: Charly, days rented: 7, price: 2583.0
+          car- plate: ERI468, model:LUXURY +child-seat +child-seat +child-seat
+          car- plate: JAS766, model:LUXURY +GPS
+          car- plate: GON800, model:ECONOMY +GPS +Sat-radio +child-seat +child-seat +child-seat
+
+        renter: Eve, days rented: 4, price: 825.0
+          car- plate: XPN357, model:MINIVAN +Sat-radio +child-seat +child-seat +child-seat
+          car- plate: MQR318, model:MINIVAN +GPS +child-seat +child-seat +child-seat +child-seat
+          car- plate: JRW260, model:STANDARD +GPS
+
+        renter: Dereck, days rented: 7, price: 1640.0
+          car- plate: MQF712, model:STANDARD +Sat-radio +child-seat +child-seat +child-seat
+          car- plate: CJB420, model:SUV +GPS +child-seat +child-seat
+          car- plate: JEI571, model:SUV +GPS +Sat-radio +child-seat +child-seat +child-seat
+
+        renter: Adam, days rented: 7, price: 3310.0
+          car- plate: SEK692, model:LUXURY +child-seat +child-seat
+          car- plate: LCC291, model:LUXURY +child-seat +child-seat +child-seat +child-seat
+          car- plate: CBG375, model:LUXURY +child-seat +child-seat
+
+        renter: Farah, days rented: 3, price: 891.0
+          car- plate: BRG597, model:ECONOMY +GPS +Sat-radio +child-seat +child-seat
+          car- plate: GBU542, model:LUXURY +child-seat +child-seat +child-seat +child-seat
+          car- plate: CXE366, model:ECONOMY +GPS +Sat-radio +child-seat +child-seat +child-seat
+
+        renter: Bevis, days rented: 7, price: 1560.0
+          car- plate: EUX476, model:STANDARD +Sat-radio +child-seat +child-seat +child-seat
+          car- plate: OHV806, model:SUV +GPS +child-seat
+          car- plate: AWL889, model:SUV +child-seat +child-seat
+
+        renter: Ignus, days rented: 2, price: 123.0
+          car- plate: ZWN689, model:ECONOMY +Sat-radio +child-seat +child-seat +child-seat
+
+        renter: Kate, days rented: 3, price: 235.0
+          car- plate: EXS368, model:MINIVAN +Sat-radio +child-seat +child-seat +child-seat +child-seat
+
+        renter: Adam, days rented: 7, price: 1378.0
+          car- plate: HRM735, model:MINIVAN +GPS
+          car- plate: ORS443, model:SUV +Sat-radio +child-seat +child-seat
+          car- plate: VCJ899, model:ECONOMY +Sat-radio +child-seat
+
+        renter: Lucy, days rented: 1, price: 185.0
+          car- plate: ZLP799, model:SUV +GPS +Sat-radio +child-seat +child-seat +child-seat +child-seat
+
+    Number of Unrented Cars: 0
+    Todays Revenue:3481.0
+
+######### DAY 12 #########
+    Number of New Rentals today: 3
+        renter: Lucy, days rented: 3, price: 180.0
+          car- plate: XPN357, model:MINIVAN
+
+        renter: Ignus, days rented: 3, price: 225.0
+          car- plate: MQR318, model:MINIVAN +GPS +Sat-radio +child-seat
+
+        renter: Kate, days rented: 1, price: 95.0
+          car- plate: JRW260, model:STANDARD +Sat-radio +child-seat +child-seat
+
+
+    Number of Total Active Rentals: 11
+        renter: Charly, days rented: 7, price: 2583.0
+          car- plate: ERI468, model:LUXURY +child-seat +child-seat +child-seat
+          car- plate: JAS766, model:LUXURY +GPS
+          car- plate: GON800, model:ECONOMY +GPS +Sat-radio +child-seat +child-seat +child-seat
+
+        renter: Dereck, days rented: 7, price: 1640.0
+          car- plate: MQF712, model:STANDARD +Sat-radio +child-seat +child-seat +child-seat
+          car- plate: CJB420, model:SUV +GPS +child-seat +child-seat
+          car- plate: JEI571, model:SUV +GPS +Sat-radio +child-seat +child-seat +child-seat
+
+        renter: Adam, days rented: 7, price: 3310.0
+          car- plate: SEK692, model:LUXURY +child-seat +child-seat
+          car- plate: LCC291, model:LUXURY +child-seat +child-seat +child-seat +child-seat
+          car- plate: CBG375, model:LUXURY +child-seat +child-seat
+
+        renter: Farah, days rented: 3, price: 891.0
+          car- plate: BRG597, model:ECONOMY +GPS +Sat-radio +child-seat +child-seat
+          car- plate: GBU542, model:LUXURY +child-seat +child-seat +child-seat +child-seat
+          car- plate: CXE366, model:ECONOMY +GPS +Sat-radio +child-seat +child-seat +child-seat
+
+        renter: Bevis, days rented: 7, price: 1560.0
+          car- plate: EUX476, model:STANDARD +Sat-radio +child-seat +child-seat +child-seat
+          car- plate: OHV806, model:SUV +GPS +child-seat
+          car- plate: AWL889, model:SUV +child-seat +child-seat
+
+        renter: Ignus, days rented: 2, price: 123.0
+          car- plate: ZWN689, model:ECONOMY +Sat-radio +child-seat +child-seat +child-seat
+
+        renter: Kate, days rented: 3, price: 235.0
+          car- plate: EXS368, model:MINIVAN +Sat-radio +child-seat +child-seat +child-seat +child-seat
+
+        renter: Adam, days rented: 7, price: 1378.0
+          car- plate: HRM735, model:MINIVAN +GPS
+          car- plate: ORS443, model:SUV +Sat-radio +child-seat +child-seat
+          car- plate: VCJ899, model:ECONOMY +Sat-radio +child-seat
+
+        renter: Lucy, days rented: 3, price: 180.0
+          car- plate: XPN357, model:MINIVAN
+
+        renter: Ignus, days rented: 3, price: 225.0
+          car- plate: MQR318, model:MINIVAN +GPS +Sat-radio +child-seat
+
+        renter: Kate, days rented: 1, price: 95.0
+          car- plate: JRW260, model:STANDARD +Sat-radio +child-seat +child-seat
+
+    Number of Unrented Cars: 1
+        plate: ZLP799, model:SUV
+    Todays Revenue:500.0
+
+######### DAY 13 #########
+    Number of New Rentals today: 3
+        renter: Ignus, days rented: 2, price: 215.0
+          car- plate: ZLP799, model:SUV +GPS +Sat-radio +child-seat
+
+        renter: Lucy, days rented: 2, price: 400.0
+          car- plate: ERI468, model:LUXURY +GPS +Sat-radio +child-seat
+
+        renter: Jackie, days rented: 1, price: 270.0
+          car- plate: JAS766, model:LUXURY +GPS +child-seat +child-seat +child-seat +child-seat
+
+
+    Number of Total Active Rentals: 10
+        renter: Dereck, days rented: 7, price: 1640.0
+          car- plate: MQF712, model:STANDARD +Sat-radio +child-seat +child-seat +child-seat
+          car- plate: CJB420, model:SUV +GPS +child-seat +child-seat
+          car- plate: JEI571, model:SUV +GPS +Sat-radio +child-seat +child-seat +child-seat
+
+        renter: Adam, days rented: 7, price: 3310.0
+          car- plate: SEK692, model:LUXURY +child-seat +child-seat
+          car- plate: LCC291, model:LUXURY +child-seat +child-seat +child-seat +child-seat
+          car- plate: CBG375, model:LUXURY +child-seat +child-seat
+
+        renter: Bevis, days rented: 7, price: 1560.0
+          car- plate: EUX476, model:STANDARD +Sat-radio +child-seat +child-seat +child-seat
+          car- plate: OHV806, model:SUV +GPS +child-seat
+          car- plate: AWL889, model:SUV +child-seat +child-seat
+
+        renter: Kate, days rented: 3, price: 235.0
+          car- plate: EXS368, model:MINIVAN +Sat-radio +child-seat +child-seat +child-seat +child-seat
+
+        renter: Adam, days rented: 7, price: 1378.0
+          car- plate: HRM735, model:MINIVAN +GPS
+          car- plate: ORS443, model:SUV +Sat-radio +child-seat +child-seat
+          car- plate: VCJ899, model:ECONOMY +Sat-radio +child-seat
+
+        renter: Lucy, days rented: 3, price: 180.0
+          car- plate: XPN357, model:MINIVAN
+
+        renter: Ignus, days rented: 3, price: 225.0
+          car- plate: MQR318, model:MINIVAN +GPS +Sat-radio +child-seat
+
+        renter: Ignus, days rented: 2, price: 215.0
+          car- plate: ZLP799, model:SUV +GPS +Sat-radio +child-seat
+
+        renter: Lucy, days rented: 2, price: 400.0
+          car- plate: ERI468, model:LUXURY +GPS +Sat-radio +child-seat
+
+        renter: Jackie, days rented: 1, price: 270.0
+          car- plate: JAS766, model:LUXURY +GPS +child-seat +child-seat +child-seat +child-seat
+
+    Number of Unrented Cars: 6
+        plate: GON800, model:ECONOMY
+        plate: BRG597, model:ECONOMY
+        plate: GBU542, model:LUXURY
+        plate: CXE366, model:ECONOMY
+        plate: ZWN689, model:ECONOMY
+        plate: JRW260, model:STANDARD
+    Todays Revenue:885.0
+
+######### DAY 14 #########
+    Number of New Rentals today: 0
+
+    Number of Total Active Rentals: 8
+        renter: Dereck, days rented: 7, price: 1640.0
+          car- plate: MQF712, model:STANDARD +Sat-radio +child-seat +child-seat +child-seat
+          car- plate: CJB420, model:SUV +GPS +child-seat +child-seat
+          car- plate: JEI571, model:SUV +GPS +Sat-radio +child-seat +child-seat +child-seat
+
+        renter: Adam, days rented: 7, price: 3310.0
+          car- plate: SEK692, model:LUXURY +child-seat +child-seat
+          car- plate: LCC291, model:LUXURY +child-seat +child-seat +child-seat +child-seat
+          car- plate: CBG375, model:LUXURY +child-seat +child-seat
+
+        renter: Bevis, days rented: 7, price: 1560.0
+          car- plate: EUX476, model:STANDARD +Sat-radio +child-seat +child-seat +child-seat
+          car- plate: OHV806, model:SUV +GPS +child-seat
+          car- plate: AWL889, model:SUV +child-seat +child-seat
+
+        renter: Adam, days rented: 7, price: 1378.0
+          car- plate: HRM735, model:MINIVAN +GPS
+          car- plate: ORS443, model:SUV +Sat-radio +child-seat +child-seat
+          car- plate: VCJ899, model:ECONOMY +Sat-radio +child-seat
+
+        renter: Lucy, days rented: 3, price: 180.0
+          car- plate: XPN357, model:MINIVAN
+
+        renter: Ignus, days rented: 3, price: 225.0
+          car- plate: MQR318, model:MINIVAN +GPS +Sat-radio +child-seat
+
+        renter: Ignus, days rented: 2, price: 215.0
+          car- plate: ZLP799, model:SUV +GPS +Sat-radio +child-seat
+
+        renter: Lucy, days rented: 2, price: 400.0
+          car- plate: ERI468, model:LUXURY +GPS +Sat-radio +child-seat
+
+    Number of Unrented Cars: 8
+        plate: GON800, model:ECONOMY
+        plate: BRG597, model:ECONOMY
+        plate: GBU542, model:LUXURY
+        plate: CXE366, model:ECONOMY
+        plate: ZWN689, model:ECONOMY
+        plate: JRW260, model:STANDARD
+        plate: EXS368, model:MINIVAN
+        plate: JAS766, model:LUXURY
+    Todays Revenue:0.0
+
+######### DAY 15 #########
+    Number of New Rentals today: 6
+        renter: Charly, days rented: 7, price: 1918.0
+          car- plate: GON800, model:ECONOMY +child-seat +child-seat
+          car- plate: BRG597, model:ECONOMY +GPS +Sat-radio
+          car- plate: GBU542, model:LUXURY +GPS +Sat-radio +child-seat +child-seat +child-seat
+
+        renter: Ignus, days rented: 2, price: 120.0
+          car- plate: CXE366, model:ECONOMY +GPS +child-seat +child-seat
+
+        renter: Bevis, days rented: 7, price: 1248.0
+          car- plate: ZWN689, model:ECONOMY +Sat-radio +child-seat +child-seat +child-seat
+          car- plate: JRW260, model:STANDARD +GPS +child-seat +child-seat +child-seat
+          car- plate: EXS368, model:MINIVAN +child-seat +child-seat
+
+        renter: Eve, days rented: 5, price: 750.0
+          car- plate: JAS766, model:LUXURY
+
+        renter: Eve, days rented: 3, price: 765.0
+          car- plate: XPN357, model:MINIVAN +Sat-radio +child-seat
+          car- plate: MQR318, model:MINIVAN +GPS +child-seat +child-seat +child-seat +child-seat
+          car- plate: ZLP799, model:SUV +GPS +Sat-radio +child-seat +child-seat +child-seat
+
+        renter: Ignus, days rented: 1, price: 250.0
+          car- plate: ERI468, model:LUXURY +GPS +Sat-radio +child-seat
+
+
+    Number of Total Active Rentals: 10
+        renter: Dereck, days rented: 7, price: 1640.0
+          car- plate: MQF712, model:STANDARD +Sat-radio +child-seat +child-seat +child-seat
+          car- plate: CJB420, model:SUV +GPS +child-seat +child-seat
+          car- plate: JEI571, model:SUV +GPS +Sat-radio +child-seat +child-seat +child-seat
+
+        renter: Adam, days rented: 7, price: 3310.0
+          car- plate: SEK692, model:LUXURY +child-seat +child-seat
+          car- plate: LCC291, model:LUXURY +child-seat +child-seat +child-seat +child-seat
+          car- plate: CBG375, model:LUXURY +child-seat +child-seat
+
+        renter: Bevis, days rented: 7, price: 1560.0
+          car- plate: EUX476, model:STANDARD +Sat-radio +child-seat +child-seat +child-seat
+          car- plate: OHV806, model:SUV +GPS +child-seat
+          car- plate: AWL889, model:SUV +child-seat +child-seat
+
+        renter: Adam, days rented: 7, price: 1378.0
+          car- plate: HRM735, model:MINIVAN +GPS
+          car- plate: ORS443, model:SUV +Sat-radio +child-seat +child-seat
+          car- plate: VCJ899, model:ECONOMY +Sat-radio +child-seat
+
+        renter: Charly, days rented: 7, price: 1918.0
+          car- plate: GON800, model:ECONOMY +child-seat +child-seat
+          car- plate: BRG597, model:ECONOMY +GPS +Sat-radio
+          car- plate: GBU542, model:LUXURY +GPS +Sat-radio +child-seat +child-seat +child-seat
+
+        renter: Ignus, days rented: 2, price: 120.0
+          car- plate: CXE366, model:ECONOMY +GPS +child-seat +child-seat
+
+        renter: Bevis, days rented: 7, price: 1248.0
+          car- plate: ZWN689, model:ECONOMY +Sat-radio +child-seat +child-seat +child-seat
+          car- plate: JRW260, model:STANDARD +GPS +child-seat +child-seat +child-seat
+          car- plate: EXS368, model:MINIVAN +child-seat +child-seat
+
+        renter: Eve, days rented: 5, price: 750.0
+          car- plate: JAS766, model:LUXURY
+
+        renter: Eve, days rented: 3, price: 765.0
+          car- plate: XPN357, model:MINIVAN +Sat-radio +child-seat
+          car- plate: MQR318, model:MINIVAN +GPS +child-seat +child-seat +child-seat +child-seat
+          car- plate: ZLP799, model:SUV +GPS +Sat-radio +child-seat +child-seat +child-seat
+
+        renter: Ignus, days rented: 1, price: 250.0
+          car- plate: ERI468, model:LUXURY +GPS +Sat-radio +child-seat
+
+    Number of Unrented Cars: 0
+    Todays Revenue:5051.0
+
+######### DAY 16 #########
+    Number of New Rentals today: 0
+
+    Number of Total Active Rentals: 8
+        renter: Adam, days rented: 7, price: 3310.0
+          car- plate: SEK692, model:LUXURY +child-seat +child-seat
+          car- plate: LCC291, model:LUXURY +child-seat +child-seat +child-seat +child-seat
+          car- plate: CBG375, model:LUXURY +child-seat +child-seat
+
+        renter: Bevis, days rented: 7, price: 1560.0
+          car- plate: EUX476, model:STANDARD +Sat-radio +child-seat +child-seat +child-seat
+          car- plate: OHV806, model:SUV +GPS +child-seat
+          car- plate: AWL889, model:SUV +child-seat +child-seat
+
+        renter: Adam, days rented: 7, price: 1378.0
+          car- plate: HRM735, model:MINIVAN +GPS
+          car- plate: ORS443, model:SUV +Sat-radio +child-seat +child-seat
+          car- plate: VCJ899, model:ECONOMY +Sat-radio +child-seat
+
+        renter: Charly, days rented: 7, price: 1918.0
+          car- plate: GON800, model:ECONOMY +child-seat +child-seat
+          car- plate: BRG597, model:ECONOMY +GPS +Sat-radio
+          car- plate: GBU542, model:LUXURY +GPS +Sat-radio +child-seat +child-seat +child-seat
+
+        renter: Ignus, days rented: 2, price: 120.0
+          car- plate: CXE366, model:ECONOMY +GPS +child-seat +child-seat
+
+        renter: Bevis, days rented: 7, price: 1248.0
+          car- plate: ZWN689, model:ECONOMY +Sat-radio +child-seat +child-seat +child-seat
+          car- plate: JRW260, model:STANDARD +GPS +child-seat +child-seat +child-seat
+          car- plate: EXS368, model:MINIVAN +child-seat +child-seat
+
+        renter: Eve, days rented: 5, price: 750.0
+          car- plate: JAS766, model:LUXURY
+
+        renter: Eve, days rented: 3, price: 765.0
+          car- plate: XPN357, model:MINIVAN +Sat-radio +child-seat
+          car- plate: MQR318, model:MINIVAN +GPS +child-seat +child-seat +child-seat +child-seat
+          car- plate: ZLP799, model:SUV +GPS +Sat-radio +child-seat +child-seat +child-seat
+
+    Number of Unrented Cars: 4
+        plate: MQF712, model:STANDARD
+        plate: CJB420, model:SUV
+        plate: JEI571, model:SUV
+        plate: ERI468, model:LUXURY
+    Todays Revenue:0.0
+
+######### DAY 17 #########
+    Number of New Rentals today: 2
+        renter: Jackie, days rented: 1, price: 115.0
+          car- plate: MQF712, model:STANDARD +GPS +Sat-radio +child-seat +child-seat
+
+        renter: Ignus, days rented: 2, price: 210.0
+          car- plate: CJB420, model:SUV +GPS +child-seat +child-seat
+
+
+    Number of Total Active Rentals: 8
+        renter: Bevis, days rented: 7, price: 1560.0
+          car- plate: EUX476, model:STANDARD +Sat-radio +child-seat +child-seat +child-seat
+          car- plate: OHV806, model:SUV +GPS +child-seat
+          car- plate: AWL889, model:SUV +child-seat +child-seat
+
+        renter: Adam, days rented: 7, price: 1378.0
+          car- plate: HRM735, model:MINIVAN +GPS
+          car- plate: ORS443, model:SUV +Sat-radio +child-seat +child-seat
+          car- plate: VCJ899, model:ECONOMY +Sat-radio +child-seat
+
+        renter: Charly, days rented: 7, price: 1918.0
+          car- plate: GON800, model:ECONOMY +child-seat +child-seat
+          car- plate: BRG597, model:ECONOMY +GPS +Sat-radio
+          car- plate: GBU542, model:LUXURY +GPS +Sat-radio +child-seat +child-seat +child-seat
+
+        renter: Bevis, days rented: 7, price: 1248.0
+          car- plate: ZWN689, model:ECONOMY +Sat-radio +child-seat +child-seat +child-seat
+          car- plate: JRW260, model:STANDARD +GPS +child-seat +child-seat +child-seat
+          car- plate: EXS368, model:MINIVAN +child-seat +child-seat
+
+        renter: Eve, days rented: 5, price: 750.0
+          car- plate: JAS766, model:LUXURY
+
+        renter: Eve, days rented: 3, price: 765.0
+          car- plate: XPN357, model:MINIVAN +Sat-radio +child-seat
+          car- plate: MQR318, model:MINIVAN +GPS +child-seat +child-seat +child-seat +child-seat
+          car- plate: ZLP799, model:SUV +GPS +Sat-radio +child-seat +child-seat +child-seat
+
+        renter: Jackie, days rented: 1, price: 115.0
+          car- plate: MQF712, model:STANDARD +GPS +Sat-radio +child-seat +child-seat
+
+        renter: Ignus, days rented: 2, price: 210.0
+          car- plate: CJB420, model:SUV +GPS +child-seat +child-seat
+
+    Number of Unrented Cars: 6
+        plate: JEI571, model:SUV
+        plate: ERI468, model:LUXURY
+        plate: SEK692, model:LUXURY
+        plate: LCC291, model:LUXURY
+        plate: CBG375, model:LUXURY
+        plate: CXE366, model:ECONOMY
+    Todays Revenue:325.0
+
+######### DAY 18 #########
+    Number of New Rentals today: 6
+        renter: Farah, days rented: 3, price: 1390.0
+          car- plate: JEI571, model:SUV +child-seat +child-seat +child-seat
+          car- plate: ERI468, model:LUXURY +GPS +Sat-radio +child-seat
+          car- plate: SEK692, model:LUXURY +Sat-radio +child-seat +child-seat +child-seat +child-seat
+
+        renter: Charly, days rented: 7, price: 2655.0
+          car- plate: LCC291, model:LUXURY +GPS +Sat-radio +child-seat +child-seat
+          car- plate: CBG375, model:LUXURY +GPS +child-seat
+          car- plate: CXE366, model:ECONOMY +GPS +child-seat +child-seat +child-seat
+
+        renter: Ignus, days rented: 2, price: 140.0
+          car- plate: EUX476, model:STANDARD +child-seat +child-seat +child-seat
+
+        renter: Henry, days rented: 4, price: 770.0
+          car- plate: OHV806, model:SUV +GPS +Sat-radio +child-seat +child-seat
+          car- plate: AWL889, model:SUV +GPS +child-seat +child-seat +child-seat +child-seat
+
+        renter: Charly, days rented: 7, price: 1390.0
+          car- plate: HRM735, model:MINIVAN +child-seat +child-seat
+          car- plate: ORS443, model:SUV +child-seat +child-seat +child-seat +child-seat
+          car- plate: VCJ899, model:ECONOMY +child-seat +child-seat +child-seat
+
+        renter: Kate, days rented: 3, price: 220.0
+          car- plate: XPN357, model:MINIVAN +GPS +child-seat +child-seat
+
+
+    Number of Total Active Rentals: 10
+        renter: Charly, days rented: 7, price: 1918.0
+          car- plate: GON800, model:ECONOMY +child-seat +child-seat
+          car- plate: BRG597, model:ECONOMY +GPS +Sat-radio
+          car- plate: GBU542, model:LUXURY +GPS +Sat-radio +child-seat +child-seat +child-seat
+
+        renter: Bevis, days rented: 7, price: 1248.0
+          car- plate: ZWN689, model:ECONOMY +Sat-radio +child-seat +child-seat +child-seat
+          car- plate: JRW260, model:STANDARD +GPS +child-seat +child-seat +child-seat
+          car- plate: EXS368, model:MINIVAN +child-seat +child-seat
+
+        renter: Eve, days rented: 5, price: 750.0
+          car- plate: JAS766, model:LUXURY
+
+        renter: Ignus, days rented: 2, price: 210.0
+          car- plate: CJB420, model:SUV +GPS +child-seat +child-seat
+
+        renter: Farah, days rented: 3, price: 1390.0
+          car- plate: JEI571, model:SUV +child-seat +child-seat +child-seat
+          car- plate: ERI468, model:LUXURY +GPS +Sat-radio +child-seat
+          car- plate: SEK692, model:LUXURY +Sat-radio +child-seat +child-seat +child-seat +child-seat
+
+        renter: Charly, days rented: 7, price: 2655.0
+          car- plate: LCC291, model:LUXURY +GPS +Sat-radio +child-seat +child-seat
+          car- plate: CBG375, model:LUXURY +GPS +child-seat
+          car- plate: CXE366, model:ECONOMY +GPS +child-seat +child-seat +child-seat
+
+        renter: Ignus, days rented: 2, price: 140.0
+          car- plate: EUX476, model:STANDARD +child-seat +child-seat +child-seat
+
+        renter: Henry, days rented: 4, price: 770.0
+          car- plate: OHV806, model:SUV +GPS +Sat-radio +child-seat +child-seat
+          car- plate: AWL889, model:SUV +GPS +child-seat +child-seat +child-seat +child-seat
+
+        renter: Charly, days rented: 7, price: 1390.0
+          car- plate: HRM735, model:MINIVAN +child-seat +child-seat
+          car- plate: ORS443, model:SUV +child-seat +child-seat +child-seat +child-seat
+          car- plate: VCJ899, model:ECONOMY +child-seat +child-seat +child-seat
+
+        renter: Kate, days rented: 3, price: 220.0
+          car- plate: XPN357, model:MINIVAN +GPS +child-seat +child-seat
+
+    Number of Unrented Cars: 3
+        plate: MQR318, model:MINIVAN
+        plate: ZLP799, model:SUV
+        plate: MQF712, model:STANDARD
+    Todays Revenue:6565.0
+
+######### DAY 19 #########
+    Number of New Rentals today: 2
+        renter: Grace, days rented: 3, price: 760.0
+          car- plate: MQR318, model:MINIVAN +Sat-radio +child-seat +child-seat +child-seat
+          car- plate: ZLP799, model:SUV +GPS +child-seat +child-seat +child-seat
+          car- plate: MQF712, model:STANDARD +GPS +Sat-radio +child-seat +child-seat +child-seat
+
+        renter: Eve, days rented: 5, price: 455.0
+          car- plate: CJB420, model:SUV +GPS +Sat-radio +child-seat +child-seat
+
+
+    Number of Total Active Rentals: 11
+        renter: Charly, days rented: 7, price: 1918.0
+          car- plate: GON800, model:ECONOMY +child-seat +child-seat
+          car- plate: BRG597, model:ECONOMY +GPS +Sat-radio
+          car- plate: GBU542, model:LUXURY +GPS +Sat-radio +child-seat +child-seat +child-seat
+
+        renter: Bevis, days rented: 7, price: 1248.0
+          car- plate: ZWN689, model:ECONOMY +Sat-radio +child-seat +child-seat +child-seat
+          car- plate: JRW260, model:STANDARD +GPS +child-seat +child-seat +child-seat
+          car- plate: EXS368, model:MINIVAN +child-seat +child-seat
+
+        renter: Eve, days rented: 5, price: 750.0
+          car- plate: JAS766, model:LUXURY
+
+        renter: Farah, days rented: 3, price: 1390.0
+          car- plate: JEI571, model:SUV +child-seat +child-seat +child-seat
+          car- plate: ERI468, model:LUXURY +GPS +Sat-radio +child-seat
+          car- plate: SEK692, model:LUXURY +Sat-radio +child-seat +child-seat +child-seat +child-seat
+
+        renter: Charly, days rented: 7, price: 2655.0
+          car- plate: LCC291, model:LUXURY +GPS +Sat-radio +child-seat +child-seat
+          car- plate: CBG375, model:LUXURY +GPS +child-seat
+          car- plate: CXE366, model:ECONOMY +GPS +child-seat +child-seat +child-seat
+
+        renter: Ignus, days rented: 2, price: 140.0
+          car- plate: EUX476, model:STANDARD +child-seat +child-seat +child-seat
+
+        renter: Henry, days rented: 4, price: 770.0
+          car- plate: OHV806, model:SUV +GPS +Sat-radio +child-seat +child-seat
+          car- plate: AWL889, model:SUV +GPS +child-seat +child-seat +child-seat +child-seat
+
+        renter: Charly, days rented: 7, price: 1390.0
+          car- plate: HRM735, model:MINIVAN +child-seat +child-seat
+          car- plate: ORS443, model:SUV +child-seat +child-seat +child-seat +child-seat
+          car- plate: VCJ899, model:ECONOMY +child-seat +child-seat +child-seat
+
+        renter: Kate, days rented: 3, price: 220.0
+          car- plate: XPN357, model:MINIVAN +GPS +child-seat +child-seat
+
+        renter: Grace, days rented: 3, price: 760.0
+          car- plate: MQR318, model:MINIVAN +Sat-radio +child-seat +child-seat +child-seat
+          car- plate: ZLP799, model:SUV +GPS +child-seat +child-seat +child-seat
+          car- plate: MQF712, model:STANDARD +GPS +Sat-radio +child-seat +child-seat +child-seat
+
+        renter: Eve, days rented: 5, price: 455.0
+          car- plate: CJB420, model:SUV +GPS +Sat-radio +child-seat +child-seat
+
+    Number of Unrented Cars: 0
+    Todays Revenue:1215.0
+
+######### DAY 20 #########
+    Number of New Rentals today: 1
+        renter: Farah, days rented: 3, price: 530.0
+          car- plate: JAS766, model:LUXURY +GPS +Sat-radio
+
+
+    Number of Total Active Rentals: 10
+        renter: Charly, days rented: 7, price: 1918.0
+          car- plate: GON800, model:ECONOMY +child-seat +child-seat
+          car- plate: BRG597, model:ECONOMY +GPS +Sat-radio
+          car- plate: GBU542, model:LUXURY +GPS +Sat-radio +child-seat +child-seat +child-seat
+
+        renter: Bevis, days rented: 7, price: 1248.0
+          car- plate: ZWN689, model:ECONOMY +Sat-radio +child-seat +child-seat +child-seat
+          car- plate: JRW260, model:STANDARD +GPS +child-seat +child-seat +child-seat
+          car- plate: EXS368, model:MINIVAN +child-seat +child-seat
+
+        renter: Farah, days rented: 3, price: 1390.0
+          car- plate: JEI571, model:SUV +child-seat +child-seat +child-seat
+          car- plate: ERI468, model:LUXURY +GPS +Sat-radio +child-seat
+          car- plate: SEK692, model:LUXURY +Sat-radio +child-seat +child-seat +child-seat +child-seat
+
+        renter: Charly, days rented: 7, price: 2655.0
+          car- plate: LCC291, model:LUXURY +GPS +Sat-radio +child-seat +child-seat
+          car- plate: CBG375, model:LUXURY +GPS +child-seat
+          car- plate: CXE366, model:ECONOMY +GPS +child-seat +child-seat +child-seat
+
+        renter: Henry, days rented: 4, price: 770.0
+          car- plate: OHV806, model:SUV +GPS +Sat-radio +child-seat +child-seat
+          car- plate: AWL889, model:SUV +GPS +child-seat +child-seat +child-seat +child-seat
+
+        renter: Charly, days rented: 7, price: 1390.0
+          car- plate: HRM735, model:MINIVAN +child-seat +child-seat
+          car- plate: ORS443, model:SUV +child-seat +child-seat +child-seat +child-seat
+          car- plate: VCJ899, model:ECONOMY +child-seat +child-seat +child-seat
+
+        renter: Kate, days rented: 3, price: 220.0
+          car- plate: XPN357, model:MINIVAN +GPS +child-seat +child-seat
+
+        renter: Grace, days rented: 3, price: 760.0
+          car- plate: MQR318, model:MINIVAN +Sat-radio +child-seat +child-seat +child-seat
+          car- plate: ZLP799, model:SUV +GPS +child-seat +child-seat +child-seat
+          car- plate: MQF712, model:STANDARD +GPS +Sat-radio +child-seat +child-seat +child-seat
+
+        renter: Eve, days rented: 5, price: 455.0
+          car- plate: CJB420, model:SUV +GPS +Sat-radio +child-seat +child-seat
+
+        renter: Farah, days rented: 3, price: 530.0
+          car- plate: JAS766, model:LUXURY +GPS +Sat-radio
+
+    Number of Unrented Cars: 1
+        plate: EUX476, model:STANDARD
+    Todays Revenue:530.0
+
+######### DAY 21 #########
+    Number of New Rentals today: 0
+
+    Number of Total Active Rentals: 8
+        renter: Charly, days rented: 7, price: 1918.0
+          car- plate: GON800, model:ECONOMY +child-seat +child-seat
+          car- plate: BRG597, model:ECONOMY +GPS +Sat-radio
+          car- plate: GBU542, model:LUXURY +GPS +Sat-radio +child-seat +child-seat +child-seat
+
+        renter: Bevis, days rented: 7, price: 1248.0
+          car- plate: ZWN689, model:ECONOMY +Sat-radio +child-seat +child-seat +child-seat
+          car- plate: JRW260, model:STANDARD +GPS +child-seat +child-seat +child-seat
+          car- plate: EXS368, model:MINIVAN +child-seat +child-seat
+
+        renter: Charly, days rented: 7, price: 2655.0
+          car- plate: LCC291, model:LUXURY +GPS +Sat-radio +child-seat +child-seat
+          car- plate: CBG375, model:LUXURY +GPS +child-seat
+          car- plate: CXE366, model:ECONOMY +GPS +child-seat +child-seat +child-seat
+
+        renter: Henry, days rented: 4, price: 770.0
+          car- plate: OHV806, model:SUV +GPS +Sat-radio +child-seat +child-seat
+          car- plate: AWL889, model:SUV +GPS +child-seat +child-seat +child-seat +child-seat
+
+        renter: Charly, days rented: 7, price: 1390.0
+          car- plate: HRM735, model:MINIVAN +child-seat +child-seat
+          car- plate: ORS443, model:SUV +child-seat +child-seat +child-seat +child-seat
+          car- plate: VCJ899, model:ECONOMY +child-seat +child-seat +child-seat
+
+        renter: Grace, days rented: 3, price: 760.0
+          car- plate: MQR318, model:MINIVAN +Sat-radio +child-seat +child-seat +child-seat
+          car- plate: ZLP799, model:SUV +GPS +child-seat +child-seat +child-seat
+          car- plate: MQF712, model:STANDARD +GPS +Sat-radio +child-seat +child-seat +child-seat
+
+        renter: Eve, days rented: 5, price: 455.0
+          car- plate: CJB420, model:SUV +GPS +Sat-radio +child-seat +child-seat
+
+        renter: Farah, days rented: 3, price: 530.0
+          car- plate: JAS766, model:LUXURY +GPS +Sat-radio
+
+    Number of Unrented Cars: 5
+        plate: EUX476, model:STANDARD
+        plate: JEI571, model:SUV
+        plate: ERI468, model:LUXURY
+        plate: SEK692, model:LUXURY
+        plate: XPN357, model:MINIVAN
+    Todays Revenue:0.0
+
+######### DAY 22 #########
+    Number of New Rentals today: 3
+        renter: Dereck, days rented: 7, price: 2230.0
+          car- plate: EUX476, model:STANDARD +GPS +Sat-radio
+          car- plate: JEI571, model:SUV +GPS +Sat-radio +child-seat +child-seat +child-seat +child-seat
+          car- plate: ERI468, model:LUXURY +GPS +child-seat +child-seat +child-seat +child-seat
+
+        renter: Adam, days rented: 7, price: 2035.0
+          car- plate: SEK692, model:LUXURY +GPS +Sat-radio +child-seat +child-seat +child-seat
+          car- plate: XPN357, model:MINIVAN +Sat-radio +child-seat +child-seat +child-seat
+          car- plate: GON800, model:ECONOMY +GPS +child-seat +child-seat +child-seat +child-seat
+
+        renter: Henry, days rented: 4, price: 1121.0
+          car- plate: BRG597, model:ECONOMY +Sat-radio +child-seat +child-seat +child-seat
+          car- plate: GBU542, model:LUXURY +Sat-radio +child-seat
+          car- plate: ZWN689, model:ECONOMY +GPS +Sat-radio +child-seat +child-seat +child-seat +child-seat
+
+
+    Number of Total Active Rentals: 7
+        renter: Charly, days rented: 7, price: 2655.0
+          car- plate: LCC291, model:LUXURY +GPS +Sat-radio +child-seat +child-seat
+          car- plate: CBG375, model:LUXURY +GPS +child-seat
+          car- plate: CXE366, model:ECONOMY +GPS +child-seat +child-seat +child-seat
+
+        renter: Charly, days rented: 7, price: 1390.0
+          car- plate: HRM735, model:MINIVAN +child-seat +child-seat
+          car- plate: ORS443, model:SUV +child-seat +child-seat +child-seat +child-seat
+          car- plate: VCJ899, model:ECONOMY +child-seat +child-seat +child-seat
+
+        renter: Eve, days rented: 5, price: 455.0
+          car- plate: CJB420, model:SUV +GPS +Sat-radio +child-seat +child-seat
+
+        renter: Farah, days rented: 3, price: 530.0
+          car- plate: JAS766, model:LUXURY +GPS +Sat-radio
+
+        renter: Dereck, days rented: 7, price: 2230.0
+          car- plate: EUX476, model:STANDARD +GPS +Sat-radio
+          car- plate: JEI571, model:SUV +GPS +Sat-radio +child-seat +child-seat +child-seat +child-seat
+          car- plate: ERI468, model:LUXURY +GPS +child-seat +child-seat +child-seat +child-seat
+
+        renter: Adam, days rented: 7, price: 2035.0
+          car- plate: SEK692, model:LUXURY +GPS +Sat-radio +child-seat +child-seat +child-seat
+          car- plate: XPN357, model:MINIVAN +Sat-radio +child-seat +child-seat +child-seat
+          car- plate: GON800, model:ECONOMY +GPS +child-seat +child-seat +child-seat +child-seat
+
+        renter: Henry, days rented: 4, price: 1121.0
+          car- plate: BRG597, model:ECONOMY +Sat-radio +child-seat +child-seat +child-seat
+          car- plate: GBU542, model:LUXURY +Sat-radio +child-seat
+          car- plate: ZWN689, model:ECONOMY +GPS +Sat-radio +child-seat +child-seat +child-seat +child-seat
+
+    Number of Unrented Cars: 7
+        plate: JRW260, model:STANDARD
+        plate: EXS368, model:MINIVAN
+        plate: OHV806, model:SUV
+        plate: AWL889, model:SUV
+        plate: MQR318, model:MINIVAN
+        plate: ZLP799, model:SUV
+        plate: MQF712, model:STANDARD
+    Todays Revenue:5386.0
+
+######### DAY 23 #########
+    Number of New Rentals today: 2
+        renter: Grace, days rented: 4, price: 875.0
+          car- plate: JRW260, model:STANDARD +child-seat +child-seat +child-seat +child-seat
+          car- plate: EXS368, model:MINIVAN +GPS +child-seat
+          car- plate: OHV806, model:SUV +child-seat +child-seat +child-seat
+
+        renter: Adam, days rented: 7, price: 1635.0
+          car- plate: AWL889, model:SUV +Sat-radio +child-seat +child-seat +child-seat +child-seat
+          car- plate: MQR318, model:MINIVAN +Sat-radio +child-seat +child-seat +child-seat +child-seat
+          car- plate: ZLP799, model:SUV +GPS
+
+
+    Number of Total Active Rentals: 8
+        renter: Charly, days rented: 7, price: 2655.0
+          car- plate: LCC291, model:LUXURY +GPS +Sat-radio +child-seat +child-seat
+          car- plate: CBG375, model:LUXURY +GPS +child-seat
+          car- plate: CXE366, model:ECONOMY +GPS +child-seat +child-seat +child-seat
+
+        renter: Charly, days rented: 7, price: 1390.0
+          car- plate: HRM735, model:MINIVAN +child-seat +child-seat
+          car- plate: ORS443, model:SUV +child-seat +child-seat +child-seat +child-seat
+          car- plate: VCJ899, model:ECONOMY +child-seat +child-seat +child-seat
+
+        renter: Eve, days rented: 5, price: 455.0
+          car- plate: CJB420, model:SUV +GPS +Sat-radio +child-seat +child-seat
+
+        renter: Dereck, days rented: 7, price: 2230.0
+          car- plate: EUX476, model:STANDARD +GPS +Sat-radio
+          car- plate: JEI571, model:SUV +GPS +Sat-radio +child-seat +child-seat +child-seat +child-seat
+          car- plate: ERI468, model:LUXURY +GPS +child-seat +child-seat +child-seat +child-seat
+
+        renter: Adam, days rented: 7, price: 2035.0
+          car- plate: SEK692, model:LUXURY +GPS +Sat-radio +child-seat +child-seat +child-seat
+          car- plate: XPN357, model:MINIVAN +Sat-radio +child-seat +child-seat +child-seat
+          car- plate: GON800, model:ECONOMY +GPS +child-seat +child-seat +child-seat +child-seat
+
+        renter: Henry, days rented: 4, price: 1121.0
+          car- plate: BRG597, model:ECONOMY +Sat-radio +child-seat +child-seat +child-seat
+          car- plate: GBU542, model:LUXURY +Sat-radio +child-seat
+          car- plate: ZWN689, model:ECONOMY +GPS +Sat-radio +child-seat +child-seat +child-seat +child-seat
+
+        renter: Grace, days rented: 4, price: 875.0
+          car- plate: JRW260, model:STANDARD +child-seat +child-seat +child-seat +child-seat
+          car- plate: EXS368, model:MINIVAN +GPS +child-seat
+          car- plate: OHV806, model:SUV +child-seat +child-seat +child-seat
+
+        renter: Adam, days rented: 7, price: 1635.0
+          car- plate: AWL889, model:SUV +Sat-radio +child-seat +child-seat +child-seat +child-seat
+          car- plate: MQR318, model:MINIVAN +Sat-radio +child-seat +child-seat +child-seat +child-seat
+          car- plate: ZLP799, model:SUV +GPS
+
+    Number of Unrented Cars: 2
+        plate: MQF712, model:STANDARD
+        plate: JAS766, model:LUXURY
+    Todays Revenue:2510.0
+
+######### DAY 24 #########
+    Number of New Rentals today: 1
+        renter: Jackie, days rented: 3, price: 225.0
+          car- plate: MQF712, model:STANDARD +Sat-radio +child-seat +child-seat +child-seat +child-seat
+
+
+    Number of Total Active Rentals: 8
+        renter: Charly, days rented: 7, price: 2655.0
+          car- plate: LCC291, model:LUXURY +GPS +Sat-radio +child-seat +child-seat
+          car- plate: CBG375, model:LUXURY +GPS +child-seat
+          car- plate: CXE366, model:ECONOMY +GPS +child-seat +child-seat +child-seat
+
+        renter: Charly, days rented: 7, price: 1390.0
+          car- plate: HRM735, model:MINIVAN +child-seat +child-seat
+          car- plate: ORS443, model:SUV +child-seat +child-seat +child-seat +child-seat
+          car- plate: VCJ899, model:ECONOMY +child-seat +child-seat +child-seat
+
+        renter: Dereck, days rented: 7, price: 2230.0
+          car- plate: EUX476, model:STANDARD +GPS +Sat-radio
+          car- plate: JEI571, model:SUV +GPS +Sat-radio +child-seat +child-seat +child-seat +child-seat
+          car- plate: ERI468, model:LUXURY +GPS +child-seat +child-seat +child-seat +child-seat
+
+        renter: Adam, days rented: 7, price: 2035.0
+          car- plate: SEK692, model:LUXURY +GPS +Sat-radio +child-seat +child-seat +child-seat
+          car- plate: XPN357, model:MINIVAN +Sat-radio +child-seat +child-seat +child-seat
+          car- plate: GON800, model:ECONOMY +GPS +child-seat +child-seat +child-seat +child-seat
+
+        renter: Henry, days rented: 4, price: 1121.0
+          car- plate: BRG597, model:ECONOMY +Sat-radio +child-seat +child-seat +child-seat
+          car- plate: GBU542, model:LUXURY +Sat-radio +child-seat
+          car- plate: ZWN689, model:ECONOMY +GPS +Sat-radio +child-seat +child-seat +child-seat +child-seat
+
+        renter: Grace, days rented: 4, price: 875.0
+          car- plate: JRW260, model:STANDARD +child-seat +child-seat +child-seat +child-seat
+          car- plate: EXS368, model:MINIVAN +GPS +child-seat
+          car- plate: OHV806, model:SUV +child-seat +child-seat +child-seat
+
+        renter: Adam, days rented: 7, price: 1635.0
+          car- plate: AWL889, model:SUV +Sat-radio +child-seat +child-seat +child-seat +child-seat
+          car- plate: MQR318, model:MINIVAN +Sat-radio +child-seat +child-seat +child-seat +child-seat
+          car- plate: ZLP799, model:SUV +GPS
+
+        renter: Jackie, days rented: 3, price: 225.0
+          car- plate: MQF712, model:STANDARD +Sat-radio +child-seat +child-seat +child-seat +child-seat
+
+    Number of Unrented Cars: 2
+        plate: JAS766, model:LUXURY
+        plate: CJB420, model:SUV
+    Todays Revenue:225.0
+
+######### DAY 25 #########
+    Number of New Rentals today: 3
+        renter: Bevis, days rented: 7, price: 2740.0
+          car- plate: JAS766, model:LUXURY +GPS +Sat-radio
+          car- plate: CJB420, model:SUV +Sat-radio +child-seat
+          car- plate: LCC291, model:LUXURY
+
+        renter: Jackie, days rented: 2, price: 340.0
+          car- plate: CBG375, model:LUXURY +child-seat +child-seat
+
+        renter: Kate, days rented: 1, price: 78.0
+          car- plate: CXE366, model:ECONOMY +Sat-radio +child-seat +child-seat +child-seat +child-seat
+
+
+    Number of Total Active Rentals: 9
+        renter: Dereck, days rented: 7, price: 2230.0
+          car- plate: EUX476, model:STANDARD +GPS +Sat-radio
+          car- plate: JEI571, model:SUV +GPS +Sat-radio +child-seat +child-seat +child-seat +child-seat
+          car- plate: ERI468, model:LUXURY +GPS +child-seat +child-seat +child-seat +child-seat
+
+        renter: Adam, days rented: 7, price: 2035.0
+          car- plate: SEK692, model:LUXURY +GPS +Sat-radio +child-seat +child-seat +child-seat
+          car- plate: XPN357, model:MINIVAN +Sat-radio +child-seat +child-seat +child-seat
+          car- plate: GON800, model:ECONOMY +GPS +child-seat +child-seat +child-seat +child-seat
+
+        renter: Henry, days rented: 4, price: 1121.0
+          car- plate: BRG597, model:ECONOMY +Sat-radio +child-seat +child-seat +child-seat
+          car- plate: GBU542, model:LUXURY +Sat-radio +child-seat
+          car- plate: ZWN689, model:ECONOMY +GPS +Sat-radio +child-seat +child-seat +child-seat +child-seat
+
+        renter: Grace, days rented: 4, price: 875.0
+          car- plate: JRW260, model:STANDARD +child-seat +child-seat +child-seat +child-seat
+          car- plate: EXS368, model:MINIVAN +GPS +child-seat
+          car- plate: OHV806, model:SUV +child-seat +child-seat +child-seat
+
+        renter: Adam, days rented: 7, price: 1635.0
+          car- plate: AWL889, model:SUV +Sat-radio +child-seat +child-seat +child-seat +child-seat
+          car- plate: MQR318, model:MINIVAN +Sat-radio +child-seat +child-seat +child-seat +child-seat
+          car- plate: ZLP799, model:SUV +GPS
+
+        renter: Jackie, days rented: 3, price: 225.0
+          car- plate: MQF712, model:STANDARD +Sat-radio +child-seat +child-seat +child-seat +child-seat
+
+        renter: Bevis, days rented: 7, price: 2740.0
+          car- plate: JAS766, model:LUXURY +GPS +Sat-radio
+          car- plate: CJB420, model:SUV +Sat-radio +child-seat
+          car- plate: LCC291, model:LUXURY
+
+        renter: Jackie, days rented: 2, price: 340.0
+          car- plate: CBG375, model:LUXURY +child-seat +child-seat
+
+        renter: Kate, days rented: 1, price: 78.0
+          car- plate: CXE366, model:ECONOMY +Sat-radio +child-seat +child-seat +child-seat +child-seat
+
+    Number of Unrented Cars: 3
+        plate: HRM735, model:MINIVAN
+        plate: ORS443, model:SUV
+        plate: VCJ899, model:ECONOMY
+    Todays Revenue:3158.0
+
+######### DAY 26 #########
+    Number of New Rentals today: 0
+
+    Number of Total Active Rentals: 7
+        renter: Dereck, days rented: 7, price: 2230.0
+          car- plate: EUX476, model:STANDARD +GPS +Sat-radio
+          car- plate: JEI571, model:SUV +GPS +Sat-radio +child-seat +child-seat +child-seat +child-seat
+          car- plate: ERI468, model:LUXURY +GPS +child-seat +child-seat +child-seat +child-seat
+
+        renter: Adam, days rented: 7, price: 2035.0
+          car- plate: SEK692, model:LUXURY +GPS +Sat-radio +child-seat +child-seat +child-seat
+          car- plate: XPN357, model:MINIVAN +Sat-radio +child-seat +child-seat +child-seat
+          car- plate: GON800, model:ECONOMY +GPS +child-seat +child-seat +child-seat +child-seat
+
+        renter: Grace, days rented: 4, price: 875.0
+          car- plate: JRW260, model:STANDARD +child-seat +child-seat +child-seat +child-seat
+          car- plate: EXS368, model:MINIVAN +GPS +child-seat
+          car- plate: OHV806, model:SUV +child-seat +child-seat +child-seat
+
+        renter: Adam, days rented: 7, price: 1635.0
+          car- plate: AWL889, model:SUV +Sat-radio +child-seat +child-seat +child-seat +child-seat
+          car- plate: MQR318, model:MINIVAN +Sat-radio +child-seat +child-seat +child-seat +child-seat
+          car- plate: ZLP799, model:SUV +GPS
+
+        renter: Jackie, days rented: 3, price: 225.0
+          car- plate: MQF712, model:STANDARD +Sat-radio +child-seat +child-seat +child-seat +child-seat
+
+        renter: Bevis, days rented: 7, price: 2740.0
+          car- plate: JAS766, model:LUXURY +GPS +Sat-radio
+          car- plate: CJB420, model:SUV +Sat-radio +child-seat
+          car- plate: LCC291, model:LUXURY
+
+        renter: Jackie, days rented: 2, price: 340.0
+          car- plate: CBG375, model:LUXURY +child-seat +child-seat
+
+    Number of Unrented Cars: 7
+        plate: HRM735, model:MINIVAN
+        plate: ORS443, model:SUV
+        plate: VCJ899, model:ECONOMY
+        plate: BRG597, model:ECONOMY
+        plate: GBU542, model:LUXURY
+        plate: ZWN689, model:ECONOMY
+        plate: CXE366, model:ECONOMY
+    Todays Revenue:0.0
+
+######### DAY 27 #########
+    Number of New Rentals today: 2
+        renter: Grace, days rented: 4, price: 615.0
+          car- plate: HRM735, model:MINIVAN +Sat-radio
+          car- plate: ORS443, model:SUV +child-seat +child-seat +child-seat +child-seat
+
+        renter: Farah, days rented: 3, price: 916.0
+          car- plate: VCJ899, model:ECONOMY +GPS +Sat-radio +child-seat +child-seat +child-seat
+          car- plate: BRG597, model:ECONOMY +Sat-radio +child-seat
+          car- plate: GBU542, model:LUXURY +GPS +Sat-radio +child-seat +child-seat
+
+
+    Number of Total Active Rentals: 6
+        renter: Dereck, days rented: 7, price: 2230.0
+          car- plate: EUX476, model:STANDARD +GPS +Sat-radio
+          car- plate: JEI571, model:SUV +GPS +Sat-radio +child-seat +child-seat +child-seat +child-seat
+          car- plate: ERI468, model:LUXURY +GPS +child-seat +child-seat +child-seat +child-seat
+
+        renter: Adam, days rented: 7, price: 2035.0
+          car- plate: SEK692, model:LUXURY +GPS +Sat-radio +child-seat +child-seat +child-seat
+          car- plate: XPN357, model:MINIVAN +Sat-radio +child-seat +child-seat +child-seat
+          car- plate: GON800, model:ECONOMY +GPS +child-seat +child-seat +child-seat +child-seat
+
+        renter: Adam, days rented: 7, price: 1635.0
+          car- plate: AWL889, model:SUV +Sat-radio +child-seat +child-seat +child-seat +child-seat
+          car- plate: MQR318, model:MINIVAN +Sat-radio +child-seat +child-seat +child-seat +child-seat
+          car- plate: ZLP799, model:SUV +GPS
+
+        renter: Bevis, days rented: 7, price: 2740.0
+          car- plate: JAS766, model:LUXURY +GPS +Sat-radio
+          car- plate: CJB420, model:SUV +Sat-radio +child-seat
+          car- plate: LCC291, model:LUXURY
+
+        renter: Grace, days rented: 4, price: 615.0
+          car- plate: HRM735, model:MINIVAN +Sat-radio
+          car- plate: ORS443, model:SUV +child-seat +child-seat +child-seat +child-seat
+
+        renter: Farah, days rented: 3, price: 916.0
+          car- plate: VCJ899, model:ECONOMY +GPS +Sat-radio +child-seat +child-seat +child-seat
+          car- plate: BRG597, model:ECONOMY +Sat-radio +child-seat
+          car- plate: GBU542, model:LUXURY +GPS +Sat-radio +child-seat +child-seat
+
+    Number of Unrented Cars: 7
+        plate: ZWN689, model:ECONOMY
+        plate: CXE366, model:ECONOMY
+        plate: JRW260, model:STANDARD
+        plate: EXS368, model:MINIVAN
+        plate: OHV806, model:SUV
+        plate: MQF712, model:STANDARD
+        plate: CBG375, model:LUXURY
+    Todays Revenue:1531.0
+
+######### DAY 28 #########
+    Number of New Rentals today: 2
+        renter: Dereck, days rented: 7, price: 1175.0
+          car- plate: ZWN689, model:ECONOMY +child-seat
+          car- plate: CXE366, model:ECONOMY +GPS +child-seat
+          car- plate: JRW260, model:STANDARD +GPS +Sat-radio +child-seat +child-seat +child-seat
+
+        renter: Kate, days rented: 1, price: 125.0
+          car- plate: EXS368, model:MINIVAN +GPS +Sat-radio +child-seat +child-seat +child-seat
+
+
+    Number of Total Active Rentals: 8
+        renter: Dereck, days rented: 7, price: 2230.0
+          car- plate: EUX476, model:STANDARD +GPS +Sat-radio
+          car- plate: JEI571, model:SUV +GPS +Sat-radio +child-seat +child-seat +child-seat +child-seat
+          car- plate: ERI468, model:LUXURY +GPS +child-seat +child-seat +child-seat +child-seat
+
+        renter: Adam, days rented: 7, price: 2035.0
+          car- plate: SEK692, model:LUXURY +GPS +Sat-radio +child-seat +child-seat +child-seat
+          car- plate: XPN357, model:MINIVAN +Sat-radio +child-seat +child-seat +child-seat
+          car- plate: GON800, model:ECONOMY +GPS +child-seat +child-seat +child-seat +child-seat
+
+        renter: Adam, days rented: 7, price: 1635.0
+          car- plate: AWL889, model:SUV +Sat-radio +child-seat +child-seat +child-seat +child-seat
+          car- plate: MQR318, model:MINIVAN +Sat-radio +child-seat +child-seat +child-seat +child-seat
+          car- plate: ZLP799, model:SUV +GPS
+
+        renter: Bevis, days rented: 7, price: 2740.0
+          car- plate: JAS766, model:LUXURY +GPS +Sat-radio
+          car- plate: CJB420, model:SUV +Sat-radio +child-seat
+          car- plate: LCC291, model:LUXURY
+
+        renter: Grace, days rented: 4, price: 615.0
+          car- plate: HRM735, model:MINIVAN +Sat-radio
+          car- plate: ORS443, model:SUV +child-seat +child-seat +child-seat +child-seat
+
+        renter: Farah, days rented: 3, price: 916.0
+          car- plate: VCJ899, model:ECONOMY +GPS +Sat-radio +child-seat +child-seat +child-seat
+          car- plate: BRG597, model:ECONOMY +Sat-radio +child-seat
+          car- plate: GBU542, model:LUXURY +GPS +Sat-radio +child-seat +child-seat
+
+        renter: Dereck, days rented: 7, price: 1175.0
+          car- plate: ZWN689, model:ECONOMY +child-seat
+          car- plate: CXE366, model:ECONOMY +GPS +child-seat
+          car- plate: JRW260, model:STANDARD +GPS +Sat-radio +child-seat +child-seat +child-seat
+
+        renter: Kate, days rented: 1, price: 125.0
+          car- plate: EXS368, model:MINIVAN +GPS +Sat-radio +child-seat +child-seat +child-seat
+
+    Number of Unrented Cars: 3
+        plate: OHV806, model:SUV
+        plate: MQF712, model:STANDARD
+        plate: CBG375, model:LUXURY
+    Todays Revenue:1300.0
+
+######### DAY 29 #########
+    Number of New Rentals today: 2
+        renter: Eve, days rented: 4, price: 390.0
+          car- plate: OHV806, model:SUV +GPS +child-seat +child-seat +child-seat +child-seat
+
+        renter: Kate, days rented: 3, price: 195.0
+          car- plate: MQF712, model:STANDARD +Sat-radio +child-seat
+
+
+    Number of Total Active Rentals: 7
+        renter: Adam, days rented: 7, price: 1635.0
+          car- plate: AWL889, model:SUV +Sat-radio +child-seat +child-seat +child-seat +child-seat
+          car- plate: MQR318, model:MINIVAN +Sat-radio +child-seat +child-seat +child-seat +child-seat
+          car- plate: ZLP799, model:SUV +GPS
+
+        renter: Bevis, days rented: 7, price: 2740.0
+          car- plate: JAS766, model:LUXURY +GPS +Sat-radio
+          car- plate: CJB420, model:SUV +Sat-radio +child-seat
+          car- plate: LCC291, model:LUXURY
+
+        renter: Grace, days rented: 4, price: 615.0
+          car- plate: HRM735, model:MINIVAN +Sat-radio
+          car- plate: ORS443, model:SUV +child-seat +child-seat +child-seat +child-seat
+
+        renter: Farah, days rented: 3, price: 916.0
+          car- plate: VCJ899, model:ECONOMY +GPS +Sat-radio +child-seat +child-seat +child-seat
+          car- plate: BRG597, model:ECONOMY +Sat-radio +child-seat
+          car- plate: GBU542, model:LUXURY +GPS +Sat-radio +child-seat +child-seat
+
+        renter: Dereck, days rented: 7, price: 1175.0
+          car- plate: ZWN689, model:ECONOMY +child-seat
+          car- plate: CXE366, model:ECONOMY +GPS +child-seat
+          car- plate: JRW260, model:STANDARD +GPS +Sat-radio +child-seat +child-seat +child-seat
+
+        renter: Eve, days rented: 4, price: 390.0
+          car- plate: OHV806, model:SUV +GPS +child-seat +child-seat +child-seat +child-seat
+
+        renter: Kate, days rented: 3, price: 195.0
+          car- plate: MQF712, model:STANDARD +Sat-radio +child-seat
+
+    Number of Unrented Cars: 8
+        plate: CBG375, model:LUXURY
+        plate: EUX476, model:STANDARD
+        plate: JEI571, model:SUV
+        plate: ERI468, model:LUXURY
+        plate: SEK692, model:LUXURY
+        plate: XPN357, model:MINIVAN
+        plate: GON800, model:ECONOMY
+        plate: EXS368, model:MINIVAN
+    Todays Revenue:585.0
+
+######### DAY 30 #########
+    Number of New Rentals today: 5
+        renter: Charly, days rented: 7, price: 2190.0
+          car- plate: CBG375, model:LUXURY +Sat-radio +child-seat +child-seat +child-seat +child-seat
+          car- plate: EUX476, model:STANDARD +GPS +Sat-radio +child-seat +child-seat
+          car- plate: JEI571, model:SUV +GPS +Sat-radio
+
+        renter: Grace, days rented: 5, price: 830.0
+          car- plate: ERI468, model:LUXURY +GPS +Sat-radio
+
+        renter: Henry, days rented: 3, price: 945.0
+          car- plate: SEK692, model:LUXURY +GPS +Sat-radio +child-seat
+          car- plate: XPN357, model:MINIVAN +GPS +Sat-radio +child-seat +child-seat +child-seat
+          car- plate: GON800, model:ECONOMY
+
+        renter: Kate, days rented: 1, price: 105.0
+          car- plate: EXS368, model:MINIVAN +Sat-radio +child-seat +child-seat +child-seat
+
+        renter: Adam, days rented: 7, price: 1640.0
+          car- plate: AWL889, model:SUV +Sat-radio
+          car- plate: MQR318, model:MINIVAN +GPS +Sat-radio +child-seat +child-seat +child-seat +child-seat
+          car- plate: ZLP799, model:SUV +GPS +child-seat +child-seat +child-seat
+
+
+    Number of Total Active Rentals: 10
+        renter: Bevis, days rented: 7, price: 2740.0
+          car- plate: JAS766, model:LUXURY +GPS +Sat-radio
+          car- plate: CJB420, model:SUV +Sat-radio +child-seat
+          car- plate: LCC291, model:LUXURY
+
+        renter: Grace, days rented: 4, price: 615.0
+          car- plate: HRM735, model:MINIVAN +Sat-radio
+          car- plate: ORS443, model:SUV +child-seat +child-seat +child-seat +child-seat
+
+        renter: Dereck, days rented: 7, price: 1175.0
+          car- plate: ZWN689, model:ECONOMY +child-seat
+          car- plate: CXE366, model:ECONOMY +GPS +child-seat
+          car- plate: JRW260, model:STANDARD +GPS +Sat-radio +child-seat +child-seat +child-seat
+
+        renter: Eve, days rented: 4, price: 390.0
+          car- plate: OHV806, model:SUV +GPS +child-seat +child-seat +child-seat +child-seat
+
+        renter: Kate, days rented: 3, price: 195.0
+          car- plate: MQF712, model:STANDARD +Sat-radio +child-seat
+
+        renter: Charly, days rented: 7, price: 2190.0
+          car- plate: CBG375, model:LUXURY +Sat-radio +child-seat +child-seat +child-seat +child-seat
+          car- plate: EUX476, model:STANDARD +GPS +Sat-radio +child-seat +child-seat
+          car- plate: JEI571, model:SUV +GPS +Sat-radio
+
+        renter: Grace, days rented: 5, price: 830.0
+          car- plate: ERI468, model:LUXURY +GPS +Sat-radio
+
+        renter: Henry, days rented: 3, price: 945.0
+          car- plate: SEK692, model:LUXURY +GPS +Sat-radio +child-seat
+          car- plate: XPN357, model:MINIVAN +GPS +Sat-radio +child-seat +child-seat +child-seat
+          car- plate: GON800, model:ECONOMY
+
+        renter: Kate, days rented: 1, price: 105.0
+          car- plate: EXS368, model:MINIVAN +Sat-radio +child-seat +child-seat +child-seat
+
+        renter: Adam, days rented: 7, price: 1640.0
+          car- plate: AWL889, model:SUV +Sat-radio
+          car- plate: MQR318, model:MINIVAN +GPS +Sat-radio +child-seat +child-seat +child-seat +child-seat
+          car- plate: ZLP799, model:SUV +GPS +child-seat +child-seat +child-seat
+
+    Number of Unrented Cars: 3
+        plate: VCJ899, model:ECONOMY
+        plate: BRG597, model:ECONOMY
+        plate: GBU542, model:LUXURY
+    Todays Revenue:5710.0
+
+######### DAY 31 #########
+    Number of New Rentals today: 0
+
+    Number of Total Active Rentals: 8
+        renter: Bevis, days rented: 7, price: 2740.0
+          car- plate: JAS766, model:LUXURY +GPS +Sat-radio
+          car- plate: CJB420, model:SUV +Sat-radio +child-seat
+          car- plate: LCC291, model:LUXURY
+
+        renter: Dereck, days rented: 7, price: 1175.0
+          car- plate: ZWN689, model:ECONOMY +child-seat
+          car- plate: CXE366, model:ECONOMY +GPS +child-seat
+          car- plate: JRW260, model:STANDARD +GPS +Sat-radio +child-seat +child-seat +child-seat
+
+        renter: Eve, days rented: 4, price: 390.0
+          car- plate: OHV806, model:SUV +GPS +child-seat +child-seat +child-seat +child-seat
+
+        renter: Kate, days rented: 3, price: 195.0
+          car- plate: MQF712, model:STANDARD +Sat-radio +child-seat
+
+        renter: Charly, days rented: 7, price: 2190.0
+          car- plate: CBG375, model:LUXURY +Sat-radio +child-seat +child-seat +child-seat +child-seat
+          car- plate: EUX476, model:STANDARD +GPS +Sat-radio +child-seat +child-seat
+          car- plate: JEI571, model:SUV +GPS +Sat-radio
+
+        renter: Grace, days rented: 5, price: 830.0
+          car- plate: ERI468, model:LUXURY +GPS +Sat-radio
+
+        renter: Henry, days rented: 3, price: 945.0
+          car- plate: SEK692, model:LUXURY +GPS +Sat-radio +child-seat
+          car- plate: XPN357, model:MINIVAN +GPS +Sat-radio +child-seat +child-seat +child-seat
+          car- plate: GON800, model:ECONOMY
+
+        renter: Adam, days rented: 7, price: 1640.0
+          car- plate: AWL889, model:SUV +Sat-radio
+          car- plate: MQR318, model:MINIVAN +GPS +Sat-radio +child-seat +child-seat +child-seat +child-seat
+          car- plate: ZLP799, model:SUV +GPS +child-seat +child-seat +child-seat
+
+    Number of Unrented Cars: 6
+        plate: VCJ899, model:ECONOMY
+        plate: BRG597, model:ECONOMY
+        plate: GBU542, model:LUXURY
+        plate: HRM735, model:MINIVAN
+        plate: ORS443, model:SUV
+        plate: EXS368, model:MINIVAN
+    Todays Revenue:0.0
+
+######### DAY 32 #########
+    Number of New Rentals today: 0
+
+    Number of Total Active Rentals: 6
+        renter: Dereck, days rented: 7, price: 1175.0
+          car- plate: ZWN689, model:ECONOMY +child-seat
+          car- plate: CXE366, model:ECONOMY +GPS +child-seat
+          car- plate: JRW260, model:STANDARD +GPS +Sat-radio +child-seat +child-seat +child-seat
+
+        renter: Eve, days rented: 4, price: 390.0
+          car- plate: OHV806, model:SUV +GPS +child-seat +child-seat +child-seat +child-seat
+
+        renter: Charly, days rented: 7, price: 2190.0
+          car- plate: CBG375, model:LUXURY +Sat-radio +child-seat +child-seat +child-seat +child-seat
+          car- plate: EUX476, model:STANDARD +GPS +Sat-radio +child-seat +child-seat
+          car- plate: JEI571, model:SUV +GPS +Sat-radio
+
+        renter: Grace, days rented: 5, price: 830.0
+          car- plate: ERI468, model:LUXURY +GPS +Sat-radio
+
+        renter: Henry, days rented: 3, price: 945.0
+          car- plate: SEK692, model:LUXURY +GPS +Sat-radio +child-seat
+          car- plate: XPN357, model:MINIVAN +GPS +Sat-radio +child-seat +child-seat +child-seat
+          car- plate: GON800, model:ECONOMY
+
+        renter: Adam, days rented: 7, price: 1640.0
+          car- plate: AWL889, model:SUV +Sat-radio
+          car- plate: MQR318, model:MINIVAN +GPS +Sat-radio +child-seat +child-seat +child-seat +child-seat
+          car- plate: ZLP799, model:SUV +GPS +child-seat +child-seat +child-seat
+
+    Number of Unrented Cars: 10
+        plate: VCJ899, model:ECONOMY
+        plate: BRG597, model:ECONOMY
+        plate: GBU542, model:LUXURY
+        plate: HRM735, model:MINIVAN
+        plate: ORS443, model:SUV
+        plate: EXS368, model:MINIVAN
+        plate: JAS766, model:LUXURY
+        plate: CJB420, model:SUV
+        plate: LCC291, model:LUXURY
+        plate: MQF712, model:STANDARD
+    Todays Revenue:0.0
+
+######### DAY 33 #########
+    Number of New Rentals today: 0
+
+    Number of Total Active Rentals: 4
+        renter: Dereck, days rented: 7, price: 1175.0
+          car- plate: ZWN689, model:ECONOMY +child-seat
+          car- plate: CXE366, model:ECONOMY +GPS +child-seat
+          car- plate: JRW260, model:STANDARD +GPS +Sat-radio +child-seat +child-seat +child-seat
+
+        renter: Charly, days rented: 7, price: 2190.0
+          car- plate: CBG375, model:LUXURY +Sat-radio +child-seat +child-seat +child-seat +child-seat
+          car- plate: EUX476, model:STANDARD +GPS +Sat-radio +child-seat +child-seat
+          car- plate: JEI571, model:SUV +GPS +Sat-radio
+
+        renter: Grace, days rented: 5, price: 830.0
+          car- plate: ERI468, model:LUXURY +GPS +Sat-radio
+
+        renter: Adam, days rented: 7, price: 1640.0
+          car- plate: AWL889, model:SUV +Sat-radio
+          car- plate: MQR318, model:MINIVAN +GPS +Sat-radio +child-seat +child-seat +child-seat +child-seat
+          car- plate: ZLP799, model:SUV +GPS +child-seat +child-seat +child-seat
+
+    Number of Unrented Cars: 14
+        plate: VCJ899, model:ECONOMY
+        plate: BRG597, model:ECONOMY
+        plate: GBU542, model:LUXURY
+        plate: HRM735, model:MINIVAN
+        plate: ORS443, model:SUV
+        plate: EXS368, model:MINIVAN
+        plate: JAS766, model:LUXURY
+        plate: CJB420, model:SUV
+        plate: LCC291, model:LUXURY
+        plate: MQF712, model:STANDARD
+        plate: OHV806, model:SUV
+        plate: SEK692, model:LUXURY
+        plate: XPN357, model:MINIVAN
+        plate: GON800, model:ECONOMY
+    Todays Revenue:0.0
+
+######### DAY 34 #########
+    Number of New Rentals today: 2
+        renter: Dereck, days rented: 7, price: 1826.0
+          car- plate: VCJ899, model:ECONOMY +Sat-radio +child-seat
+          car- plate: BRG597, model:ECONOMY +GPS +Sat-radio +child-seat
+          car- plate: GBU542, model:LUXURY +GPS
+
+        renter: Lucy, days rented: 1, price: 95.0
+          car- plate: HRM735, model:MINIVAN +Sat-radio +child-seat +child-seat
+
+
+    Number of Total Active Rentals: 6
+        renter: Dereck, days rented: 7, price: 1175.0
+          car- plate: ZWN689, model:ECONOMY +child-seat
+          car- plate: CXE366, model:ECONOMY +GPS +child-seat
+          car- plate: JRW260, model:STANDARD +GPS +Sat-radio +child-seat +child-seat +child-seat
+
+        renter: Charly, days rented: 7, price: 2190.0
+          car- plate: CBG375, model:LUXURY +Sat-radio +child-seat +child-seat +child-seat +child-seat
+          car- plate: EUX476, model:STANDARD +GPS +Sat-radio +child-seat +child-seat
+          car- plate: JEI571, model:SUV +GPS +Sat-radio
+
+        renter: Grace, days rented: 5, price: 830.0
+          car- plate: ERI468, model:LUXURY +GPS +Sat-radio
+
+        renter: Adam, days rented: 7, price: 1640.0
+          car- plate: AWL889, model:SUV +Sat-radio
+          car- plate: MQR318, model:MINIVAN +GPS +Sat-radio +child-seat +child-seat +child-seat +child-seat
+          car- plate: ZLP799, model:SUV +GPS +child-seat +child-seat +child-seat
+
+        renter: Dereck, days rented: 7, price: 1826.0
+          car- plate: VCJ899, model:ECONOMY +Sat-radio +child-seat
+          car- plate: BRG597, model:ECONOMY +GPS +Sat-radio +child-seat
+          car- plate: GBU542, model:LUXURY +GPS
+
+        renter: Lucy, days rented: 1, price: 95.0
+          car- plate: HRM735, model:MINIVAN +Sat-radio +child-seat +child-seat
+
+    Number of Unrented Cars: 10
+        plate: ORS443, model:SUV
+        plate: EXS368, model:MINIVAN
+        plate: JAS766, model:LUXURY
+        plate: CJB420, model:SUV
+        plate: LCC291, model:LUXURY
+        plate: MQF712, model:STANDARD
+        plate: OHV806, model:SUV
+        plate: SEK692, model:LUXURY
+        plate: XPN357, model:MINIVAN
+        plate: GON800, model:ECONOMY
+    Todays Revenue:1921.0
+
+######### DAY 35 #########
+    Number of New Rentals today: 6
+        renter: Lucy, days rented: 1, price: 155.0
+          car- plate: ORS443, model:SUV +GPS +Sat-radio +child-seat +child-seat
+
+        renter: Grace, days rented: 4, price: 1325.0
+          car- plate: EXS368, model:MINIVAN +GPS
+          car- plate: JAS766, model:LUXURY +GPS +child-seat +child-seat +child-seat
+          car- plate: CJB420, model:SUV +Sat-radio +child-seat +child-seat +child-seat
+
+        renter: Ignus, days rented: 2, price: 420.0
+          car- plate: LCC291, model:LUXURY +GPS +child-seat +child-seat +child-seat +child-seat
+
+        renter: Dereck, days rented: 7, price: 2090.0
+          car- plate: MQF712, model:STANDARD +Sat-radio +child-seat +child-seat +child-seat
+          car- plate: OHV806, model:SUV +Sat-radio
+          car- plate: SEK692, model:LUXURY +child-seat +child-seat +child-seat
+
+        renter: Jackie, days rented: 1, price: 75.0
+          car- plate: XPN357, model:MINIVAN +Sat-radio
+
+        renter: Bevis, days rented: 7, price: 1110.0
+          car- plate: GON800, model:ECONOMY +GPS +child-seat +child-seat +child-seat
+          car- plate: ZWN689, model:ECONOMY +child-seat +child-seat +child-seat
+          car- plate: CXE366, model:ECONOMY +child-seat +child-seat +child-seat +child-seat
+
+
+    Number of Total Active Rentals: 9
+        renter: Charly, days rented: 7, price: 2190.0
+          car- plate: CBG375, model:LUXURY +Sat-radio +child-seat +child-seat +child-seat +child-seat
+          car- plate: EUX476, model:STANDARD +GPS +Sat-radio +child-seat +child-seat
+          car- plate: JEI571, model:SUV +GPS +Sat-radio
+
+        renter: Adam, days rented: 7, price: 1640.0
+          car- plate: AWL889, model:SUV +Sat-radio
+          car- plate: MQR318, model:MINIVAN +GPS +Sat-radio +child-seat +child-seat +child-seat +child-seat
+          car- plate: ZLP799, model:SUV +GPS +child-seat +child-seat +child-seat
+
+        renter: Dereck, days rented: 7, price: 1826.0
+          car- plate: VCJ899, model:ECONOMY +Sat-radio +child-seat
+          car- plate: BRG597, model:ECONOMY +GPS +Sat-radio +child-seat
+          car- plate: GBU542, model:LUXURY +GPS
+
+        renter: Lucy, days rented: 1, price: 155.0
+          car- plate: ORS443, model:SUV +GPS +Sat-radio +child-seat +child-seat
+
+        renter: Grace, days rented: 4, price: 1325.0
+          car- plate: EXS368, model:MINIVAN +GPS
+          car- plate: JAS766, model:LUXURY +GPS +child-seat +child-seat +child-seat
+          car- plate: CJB420, model:SUV +Sat-radio +child-seat +child-seat +child-seat
+
+        renter: Ignus, days rented: 2, price: 420.0
+          car- plate: LCC291, model:LUXURY +GPS +child-seat +child-seat +child-seat +child-seat
+
+        renter: Dereck, days rented: 7, price: 2090.0
+          car- plate: MQF712, model:STANDARD +Sat-radio +child-seat +child-seat +child-seat
+          car- plate: OHV806, model:SUV +Sat-radio
+          car- plate: SEK692, model:LUXURY +child-seat +child-seat +child-seat
+
+        renter: Jackie, days rented: 1, price: 75.0
+          car- plate: XPN357, model:MINIVAN +Sat-radio
+
+        renter: Bevis, days rented: 7, price: 1110.0
+          car- plate: GON800, model:ECONOMY +GPS +child-seat +child-seat +child-seat
+          car- plate: ZWN689, model:ECONOMY +child-seat +child-seat +child-seat
+          car- plate: CXE366, model:ECONOMY +child-seat +child-seat +child-seat +child-seat
+
+    Number of Unrented Cars: 3
+        plate: JRW260, model:STANDARD
+        plate: ERI468, model:LUXURY
+        plate: HRM735, model:MINIVAN
+    Todays Revenue:5175.0
+
+Total rentals: 84
+Total Business rentals: 23
+Total Casual rentals: 38
+Total Regular rentals: 23
+Total Revenue: 68891.0
